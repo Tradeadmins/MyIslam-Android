@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:background="@drawable/bg_edt_yellow"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/img_like"
+            android:layout_gravity="right"
+            android:layout_margin="10dp"
+            android:src="@drawable/rating_icon"
+            android:layout_width="35dp"
+            android:layout_height="35dp" />
+
+        <TextView
+            android:id="@+id/txt_desc"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp"
+            android:textSize="18dp"
+            android:gravity="center"
+            android:text="Ensure the area is clean and free of
+impurities Use prayer mat
+Pray towards Mecca
+
+Throughout the Quran, Allah is described with a number of names which total up to 99 in number. The names of Allah help you understand the concept of Allah’s uniques  the different qualities that Allah possesses."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,68 @@
+<resources>
+
+    <dimen name="app_logo_width">100dp</dimen>
+    <dimen name="app_logo_height">100dp</dimen>
+    <dimen name="login_logo">110dp</dimen>
+
+    <dimen name="dashboard_btn_height">40dp</dimen>
+
+    <!--<dimen name="community_height">130dp</dimen>
+    <dimen name="btn_height">40dp</dimen>
+    <dimen name="upper_height">120dp</dimen>
+    <dimen name="lower_height">380dp</dimen>-->
+    //calender
+    <dimen name="calender_icon_width">53dp</dimen>
+    <dimen name="calender_icon_height">53dp</dimen>
+    <dimen name="img_social_width">30dp</dimen>
+    <dimen name="img_social_height">30dp</dimen>
+    <dimen name="calender_view_height">260dp</dimen>
+    <dimen name="calender_holiday_height">53dp</dimen>
+
+    //pilgrimage
+    <dimen name="certificate_text">20dp</dimen>
+    <dimen name="hajji_image">230dp</dimen>
+    //fasting
+
+    <dimen name="fasting_moon_height">110dp</dimen>
+
+
+
+    <!---->    <dimen name="prayer_banner_height">170dp</dimen>
+    <dimen name="faith_options_text_size">16sp</dimen>
+
+    <dimen name="view_space_3">2dp</dimen>
+    <dimen name="view_space_5">4dp</dimen>
+    <dimen name="view_space_8">7dp</dimen>
+    <dimen name="view_space_10">9dp</dimen>
+    <dimen name="view_space_15">14dp</dimen>
+    <dimen name="view_space_20">19dp</dimen>
+    <dimen name="view_space_30">29dp</dimen>
+    <dimen name="view_space_35">34dp</dimen>
+    <dimen name="view_space_40">39dp</dimen>
+    <dimen name="view_space_45">44dp</dimen>
+
+    <dimen name="txt_size_12">11sp</dimen>
+    <dimen name="txt_size_13">12sp</dimen>
+    <dimen name="txt_size_14">13sp</dimen>
+    <dimen name="txt_size_16">15sp</dimen>
+    <dimen name="txt_size_18">17sp</dimen>
+    <dimen name="txt_size_20">19sp</dimen>
+    <dimen name="txt_size_22">21sp</dimen>
+    <dimen name="txt_size_24">23sp</dimen>
+    <dimen name="txt_size_34">33sp</dimen>
+
+    <dimen name="dashboard_banner_top_margin">10dp</dimen>
+    <dimen name="dashboard_button_text_size">16sp</dimen>
+    <dimen name="calendar_heading_text_size">22sp</dimen>
+    <dimen name="calendar_heading_small_text_size">16sp</dimen>
+    <dimen name="calendar_content_text_size">14sp</dimen>
+    <dimen name="calendar_content_small_text_size">12sp</dimen>
+    <dimen name="calendar_content_margin_top">10dp</dimen>
+
+    <dimen name="welcome_screen_bullet_drawable_padding">10dp</dimen>
+
+
+
+
+
+</resources>

@@ -1,0 +1,697 @@
+﻿{
+  "Text Source Allah": [
+    {
+      "Section": "1",
+      "Text": "الرَّحْمَنُ",
+      "Comment": "Ar-Rahmaan",
+      "Version for translation ok": "The Beneficent",
+      "undefined": "He who wills goodness and mercy for all His creatures"
+    },
+    {
+      "Section": "2",
+      "Text": "الرَّحِيمُ",
+      "Comment": "Ar-Raheem",
+      "Version for translation ok": "The Merciful",
+      "undefined": "He who acts with extreme kindness"
+    },
+    {
+      "Section": "3",
+      "Text": "الْمَلِكُ",
+      "Comment": "Al-Malik",
+      "Version for translation ok": "The Eternal Lord",
+      "undefined": "The Sovereign Lord, The One with the complete Dominion, the One Whose Dominion is clear from imperfection"
+    },
+    {
+      "Section": "4",
+      "Text": "الْقُدُّوسُ",
+      "Comment": "Al-Quddus",
+      "Version for translation ok": "The Most Sacred",
+      "undefined": "The One who is pure from any imperfection and clear from children and adversaries"
+    },
+    {
+      "Section": "5",
+      "Text": "السَّلاَمُ",
+      "Comment": "As-Salam",
+      "Version for translation ok": "The Embodiment of Peace",
+      "undefined": "The One who is free from every imperfection."
+    },
+    {
+      "Section": "6",
+      "Text": "الْمُؤْمِنُ",
+      "Comment": "Al-Mu’min",
+      "Version for translation ok": "The Infuser of Faith",
+      "undefined": "The One who witnessed for Himself that no one is God but Him. And He witnessed for His believers that they are truthful in their belief that no one is God but Him"
+    },
+    {
+      "Section": "7",
+      "Text": "الْمُهَيْمِنُ",
+      "Comment": "Al-Muhaymin",
+      "Version for translation ok": "The Preserver of Safety",
+      "undefined": "The One who witnesses the saying and deeds of His creatures"
+    },
+    {
+      "Section": "8",
+      "Text": "الْعَزِيزُ",
+      "Comment": "Al-Aziz",
+      "Version for translation ok": "The Mighty One",
+      "undefined": "The Strong, The Defeater who is not defeated"
+    },
+    {
+      "Section": "9",
+      "Text": "الْجَبَّارُ",
+      "Comment": "Al-Jabbar",
+      "Version for translation ok": "The Omnipotent One",
+      "undefined": "The One that nothing happens in His Dominion except that which He willed"
+    },
+    {
+      "Section": "10",
+      "Text": "الْمُتَكَبِّرُ",
+      "Comment": "Al-Mutakabbir",
+      "Version for translation ok": "The Dominant One",
+      "undefined": "The One who is clear from the attributes of the creatures and from resembling them."
+    },
+    {
+      "Section": "11",
+      "Text": "الْخَالِقُ",
+      "Comment": "Al-Khaaliq",
+      "Version for translation ok": "The Creator",
+      "undefined": "The One who brings everything from non-existence to existence"
+    },
+    {
+      "Section": "12",
+      "Text": "الْبَارِئُ",
+      "Comment": "Al-Baari",
+      "Version for translation ok": "The Evolver",
+      "undefined": "The Maker, The Creator who has the Power to turn the entities."
+    },
+    {
+      "Section": "13",
+      "Text": "الْمُصَوِّرُ",
+      "Comment": "Al-Musawwir",
+      "Version for translation ok": "The Flawless Shaper",
+      "undefined": "The One who forms His creatures in different pictures."
+    },
+    {
+      "Section": "14",
+      "Text": "الْغَفَّارُ",
+      "Comment": "Al-Ghaffaar",
+      "Version for translation ok": "The Great Forgiver",
+      "undefined": "The Forgiver, The One who forgives the sins of His slaves time and time again."
+    },
+    {
+      "Section": "15",
+      "Text": "الْقَهَّارُ",
+      "Comment": "Al-Qahhaar",
+      "Version for translation ok": "The All-Prevailing One",
+      "undefined": "The Dominant, The One who has the perfect Power and is not unable over anything."
+    },
+    {
+      "Section": "16",
+      "Text": "الْوَهَّابُ",
+      "Comment": "Al-Wahhab",
+      "Version for translation ok": "The Supreme Bestower",
+      "undefined": "The One who is Generous in giving plenty without any return. He is everything that benefits whether Halal or Haram."
+    },
+    {
+      "Section": "17",
+      "Text": "الرَّزَّاقُ",
+      "Comment": "Ar-Razzaq",
+      "Version for translation ok": "The Total Provider",
+      "undefined": "The Sustainer, The Provider."
+    },
+    {
+      "Section": "18",
+      "Text": "الْفَتَّاحُ",
+      "Comment": "Al-Fattah",
+      "Version for translation ok": "The Supreme Solver",
+      "undefined": "The Opener, The Reliever, The Judge, The One who opens for His slaves the closed worldly and religious matters."
+    },
+    {
+      "Section": "19",
+      "Text": "اَلْعَلِيْمُ",
+      "Comment": "Al-Alim",
+      "Version for translation ok": "The All-Knowing One",
+      "undefined": "The Knowledgeable; The One nothing is absent from His knowledge"
+    },
+    {
+      "Section": "20",
+      "Text": "الْقَابِضُ",
+      "Comment": "Al-Qaabid",
+      "Version for translation ok": "The Restricting One",
+      "undefined": "The Constrictor, The Withholder, The One who constricts the sustenance by His wisdom and expands and widens it with His Generosity and Mercy."
+    },
+    {
+      "Section": "21",
+      "Text": "الْبَاسِطُ",
+      "Comment": "Al-Baasit",
+      "Version for translation ok": "The Extender",
+      "undefined": "The Englarger, The One who constricts the sustenance by His wisdom and expands and widens it with His Generosity and Mercy."
+    },
+    {
+      "Section": "22",
+      "Text": "الْخَافِضُ",
+      "Comment": "Al-Khaafid",
+      "Version for translation ok": "The Reducer",
+      "undefined": "The Abaser, The One who lowers whoever He willed by His Destruction and raises whoever He willed by His Endowment."
+    },
+    {
+      "Section": "23",
+      "Text": "الرَّافِعُ",
+      "Comment": "Ar-Rafi",
+      "Version for translation ok": "The Elevating One",
+      "undefined": "The Exalter, The Elevator, The One who lowers whoever He willed by His Destruction and raises whoever He willed by His Endowment."
+    },
+    {
+      "Section": "24",
+      "Text": "الْمُعِزُّ",
+      "Comment": "Al-Mu’izz",
+      "Version for translation ok": "The Honourer-Bestower",
+      "undefined": "He gives esteem to whoever He willed, hence there is no one to degrade Him; And He degrades whoever He willed, hence there is no one to give Him esteem."
+    },
+    {
+      "Section": "25",
+      "Text": "المُذِلُّ",
+      "Comment": "Al-Muzil",
+      "Version for translation ok": "The Abaser",
+      "undefined": "The Dishonourer, The Humiliator, He gives esteem to whoever He willed, hence there is no one to degrade Him; And He degrades whoever He willed, hence there is no one to give Him esteem."
+    },
+    {
+      "Section": "26",
+      "Text": "السَّمِيعُ",
+      "Comment": "As-Sami’",
+      "Version for translation ok": "The All-Hearer",
+      "undefined": "The Hearer, The One who Hears all things that are heard by His Eternal Hearing without an ear, instrument or organ."
+    },
+    {
+      "Section": "27",
+      "Text": "الْبَصِيرُ",
+      "Comment": "Al-Baseer",
+      "Version for translation ok": "The All-Seeing",
+      "undefined": "The All-Noticing, The One who Sees all things that are seen by His Eternal Seeing without a pupil or any other instrument."
+    },
+    {
+      "Section": "28",
+      "Text": "الْحَكَمُ",
+      "Comment": "Al-Hakam",
+      "Version for translation ok": "The Impartial Judge",
+      "undefined": "The Judge, He is the Ruler and His judgment is His Word."
+    },
+    {
+      "Section": "29",
+      "Text": "الْعَدْلُ",
+      "Comment": "Al-Adl",
+      "Version for translation ok": "The Embodiment of Justice",
+      "undefined": "The Just, The One who is entitled to do what He does."
+    },
+    {
+      "Section": "30",
+      "Text": "اللَّطِيفُ",
+      "Comment": "Al-Lateef",
+      "Version for translation ok": "The Knower of Subtleties",
+      "undefined": "The Subtle One, The Gracious, The One who is kind to His slaves and endows upon them."
+    },
+    {
+      "Section": "31",
+      "Text": "الْخَبِيرُ",
+      "Comment": "Al-Khabeer",
+      "Version for translation ok": "The All-Aware One",
+      "undefined": "The One who knows the truth of things."
+    },
+    {
+      "Section": "32",
+      "Text": "الْحَلِيمُ",
+      "Comment": "Al-Haleem",
+      "Version for translation ok": "The Clement One",
+      "undefined": "The Forebearing, The One who delays the punishment for those who deserve it and then He might forgive them."
+    },
+    {
+      "Section": "33",
+      "Text": "الْعَظِيمُ",
+      "Comment": "Al-Azeem",
+      "Version for translation ok": "The Magnificent One",
+      "undefined": "The Great One, The Mighty, The One deserving the attributes of Exaltment, Glory, Extolement, and Purity from all imperfection."
+    },
+    {
+      "Section": "34",
+      "Text": "الْغَفُورُ",
+      "Comment": "Al-Ghafoor",
+      "Version for translation ok": "The Great Forgiver",
+      "undefined": "The All-Forgiving, The Forgiving, The One who forgives a lot."
+    },
+    {
+      "Section": "35",
+      "Text": "الشَّكُورُ",
+      "Comment": "Ash-Shakoor",
+      "Version for translation ok": "The Acknowledging One",
+      "undefined": "The Grateful, The Appreciative, The One who gives a lot of reward for a little obedience."
+    },
+    {
+      "Section": "36",
+      "Text": "الْعَلِيُّ",
+      "Comment": "Al-Aliyy",
+      "Version for translation ok": "The Sublime One",
+      "undefined": "The Most High, The One who is clear from the attributes of the creatures."
+    },
+    {
+      "Section": "37",
+      "Text": "الْكَبِيرُ",
+      "Comment": "Al-Kabeer",
+      "Version for translation ok": "The Great One",
+      "undefined": "The Most Great, The Great, The One who is greater than everything in status."
+    },
+    {
+      "Section": "38",
+      "Text": "الْحَفِيظُ",
+      "Comment": "Al-Hafiz",
+      "Version for translation ok": "The Guarding One",
+      "undefined": "The Preserver, The Protector, The One who protects whatever and whoever He willed to protect."
+    },
+    {
+      "Section": "39",
+      "Text": "المُقيِت",
+      "Comment": "Al-Muqeet",
+      "Version for translation ok": "The Sustaining One",
+      "undefined": "The Maintainer, The Guardian, The Feeder, The One who has the Power."
+    },
+    {
+      "Section": "40",
+      "Text": "الْحسِيبُ",
+      "Comment": "Al-Haseeb",
+      "Version for translation ok": "The Reckoning One",
+      "undefined": "The Reckoner, The One who gives the satisfaction."
+    },
+    {
+      "Section": "41",
+      "Text": "الْجَلِيلُ",
+      "Comment": "Al-Jaleel",
+      "Version for translation ok": "The Majestic One",
+      "undefined": "The Sublime One, The Beneficent, The One who is attributed with greatness of Power and Glory of status."
+    },
+    {
+      "Section": "42",
+      "Text": "الْكَرِيمُ",
+      "Comment": "Al-Kareem",
+      "Version for translation ok": "The Bountiful One",
+      "undefined": "The Generous One, The Gracious, The One who is attributed with greatness of Power and Glory of status."
+    },
+    {
+      "Section": "43",
+      "Text": "الرَّقِيبُ",
+      "Comment": "Ar-Raqeeb",
+      "Version for translation ok": "The Watchful One",
+      "undefined": "The Watcher, The One that nothing is absent from Him. Hence it’s meaning is related to the attribute of Knowledge."
+    },
+    {
+      "Section": "44",
+      "Text": "الْمُجِيبُ",
+      "Comment": "Al-Mujeeb",
+      "Version for translation ok": "The Responding One",
+      "undefined": "The Responsive, The Hearkener, The One who answers the one in need if he asks Him and rescues the yearner if he calls upon Him."
+    },
+    {
+      "Section": "45",
+      "Text": "الْوَاسِعُ",
+      "Comment": "Al-Waasi’",
+      "Version for translation ok": "The All-Pervading One",
+      "undefined": "The Vast, The All-Embracing, The Knowledgeable."
+    },
+    {
+      "Section": "46",
+      "Text": "الْحَكِيمُ",
+      "Comment": "Al-Hakeem",
+      "Version for translation ok": "The Wise One",
+      "undefined": "The Wise, The Judge of Judges, The One who is correct in His doings."
+    },
+    {
+      "Section": "47",
+      "Text": "الْوَدُودُ",
+      "Comment": "Al-Wadud",
+      "Version for translation ok": "The Loving One",
+      "undefined": "The One who loves His believing slaves and His believing slaves love Him. His love to His slaves is His Will to be merciful to them and praise them"
+    },
+    {
+      "Section": "48",
+      "Text": "الْمَجِيدُ",
+      "Comment": "Al-Majeed",
+      "Version for translation ok": "The Glorious One",
+      "undefined": "The Most Glorious One, The One who is with perfect Power, High Status, Compassion, Generosity and Kindness."
+    },
+    {
+      "Section": "49",
+      "Text": "الْبَاعِثُ",
+      "Comment": "Al-Ba’ith",
+      "Version for translation ok": "The Infuser of New Life",
+      "undefined": "The Resurrector, The Raiser (from death), The One who resurrects His slaves after death for reward and/or punishment."
+    },
+    {
+      "Section": "50",
+      "Text": "الشَّهِيدُ",
+      "Comment": "Ash-Shaheed",
+      "Version for translation ok": "The All Observing Witness",
+      "undefined": "The Witness, The One who nothing is absent from Him."
+    },
+    {
+      "Section": "51",
+      "Text": "الْحَقُّ",
+      "Comment": "Al-Haqq",
+      "Version for translation ok": "The Embodiment of Truth",
+      "undefined": "The Truth, The True, The One who truly exists."
+    },
+    {
+      "Section": "52",
+      "Text": "الْوَكِيلُ",
+      "Comment": "Al-Wakeel",
+      "Version for translation ok": "The Universal Trustee",
+      "undefined": "The Trustee, The One who gives the satisfaction and is relied upon."
+    },
+    {
+      "Section": "53",
+      "Text": "الْقَوِيُّ",
+      "Comment": "Al-Qawwiyy",
+      "Version for translation ok": "The Strong One",
+      "undefined": "The Most Strong, The Strong, The One with the complete Power"
+    },
+    {
+      "Section": "54",
+      "Text": "الْمَتِينُ",
+      "Comment": "Al-Mateen",
+      "Version for translation ok": "The Firm One",
+      "undefined": "The One with extreme Power which is un-interrupted and He does not get tired."
+    },
+    {
+      "Section": "55",
+      "Text": "الْوَلِيُّ",
+      "Comment": "Al-Waliyy",
+      "Version for translation ok": "The Protecting Associate",
+      "undefined": "The Protecting Friend, The Supporter."
+    },
+    {
+      "Section": "56",
+      "Text": "الْحَمِيدُ",
+      "Comment": "Al-Hameed",
+      "Version for translation ok": "The Sole-Laudable One",
+      "undefined": "The Praiseworthy, The praised One who deserves to be praised."
+    },
+    {
+      "Section": "57",
+      "Text": "الْمُحْصِي",
+      "Comment": "Al-Muhsee",
+      "Version for translation ok": "The All-Enumerating One",
+      "undefined": "The Counter, The Reckoner, The One who the count of things are known to him."
+    },
+    {
+      "Section": "58",
+      "Text": "الْمُبْدِئُ",
+      "Comment": "Al-Mubdi",
+      "Version for translation ok": "The Originator",
+      "undefined": "The One who started the human being. That is, He created him."
+    },
+    {
+      "Section": "59",
+      "Text": "الْمُعِيدُ",
+      "Comment": "Al-Mueed",
+      "Version for translation ok": "The Restorer",
+      "undefined": "The Reproducer, The One who brings back the creatures after death"
+    },
+    {
+      "Section": "60",
+      "Text": "الْمُحْيِي",
+      "Comment": "Al-Muhyi",
+      "Version for translation ok": "The Maintainer of life",
+      "undefined": "The Restorer, The Giver of Life, The One who took out a living human from semen that does not have a soul. He gives life by giving the souls back to the worn out bodies on the resurrection day and He makes the hearts alive by the light of knowledge."
+    },
+    {
+      "Section": "61",
+      "Text": "اَلْمُمِيتُ",
+      "Comment": "Al-Mumeet",
+      "Version for translation ok": "The Inflictor of Death",
+      "undefined": "The Creator of Death, The Destroyer, The One who renders the living dead."
+    },
+    {
+      "Section": "62",
+      "Text": "الْحَيُّ",
+      "Comment": "Al-Hayy",
+      "Version for translation ok": "The Eternally Living One",
+      "undefined": "The Alive, The One attributed with a life that is unlike our life and is not that of a combination of soul, flesh or blood."
+    },
+    {
+      "Section": "63",
+      "Text": "الْقَيُّومُ",
+      "Comment": "Al-Qayyoom",
+      "Version for translation ok": "The Self-Subsisting One",
+      "undefined": "The One who remains and does not end."
+    },
+    {
+      "Section": "64",
+      "Text": "الْوَاجِدُ",
+      "Comment": "Al-Waajid",
+      "Version for translation ok": "The Pointing One",
+      "undefined": "The Perceiver, The Finder, The Rich who is never poor. Al-Wajd is Richness."
+    },
+    {
+      "Section": "65",
+      "Text": "الْمَاجِدُ",
+      "Comment": "Al-Maajid",
+      "Version for translation ok": "The All-Noble One",
+      "undefined": "The Glorious, He who is Most Glorious."
+    },
+    {
+      "Section": "66",
+      "Text": "الْواحِدُ",
+      "Comment": "Al-Waahid",
+      "Version for translation ok": "The Only One",
+      "undefined": "The Unique, The One, The One without a partner"
+    },
+    {
+      "Section": "67",
+      "Text": "اَلاَحَدُ",
+      "Comment": "Al-Ahad",
+      "Version for translation ok": "The Sole One",
+      "undefined": "The One"
+    },
+    {
+      "Section": "68",
+      "Text": "الصَّمَدُ",
+      "Comment": "As-Samad",
+      "Version for translation ok": "The Supreme Provider",
+      "undefined": "The Eternal, The Independent, The Master who is relied upon in matters and reverted to in ones needs."
+    },
+    {
+      "Section": "69",
+      "Text": "الْقَادِرُ",
+      "Comment": "Al-Qaadir",
+      "Version for translation ok": "The Omnipotent One",
+      "undefined": "The Able, The Capable, The One attributed with Power."
+    },
+    {
+      "Section": "70",
+      "Text": "الْمُقْتَدِرُ",
+      "Comment": "Al-Muqtadir",
+      "Version for translation ok": "The All Authoritative One",
+      "undefined": "The Powerful, The Dominant, The One with the perfect Power that nothing is withheld from Him."
+    },
+    {
+      "Section": "71",
+      "Text": "الْمُقَدِّمُ",
+      "Comment": "Al-Muqaddim",
+      "Version for translation ok": "The Expediting One",
+      "undefined": "The Expediter, The Promoter, The One who puts things in their right places. He makes ahead what He wills and delays what He wills."
+    },
+    {
+      "Section": "72",
+      "Text": "الْمُؤَخِّرُ",
+      "Comment": "Al-Mu’akhkhir",
+      "Version for translation ok": "The Procrastinator",
+      "undefined": "The Delayer, the Retarder, The One who puts things in their right places. He makes ahead what He wills and delays what He wills."
+    },
+    {
+      "Section": "73",
+      "Text": "الأوَّلُ",
+      "Comment": "Al-Awwal",
+      "Version for translation ok": "The Very First",
+      "undefined": "The First, The One whose Existence is without a beginning."
+    },
+    {
+      "Section": "74",
+      "Text": "الآخِرُ",
+      "Comment": "Al-Akhir",
+      "Version for translation ok": "The Infinite Last One",
+      "undefined": "The Last, The One whose Existence is without an end."
+    },
+    {
+      "Section": "75",
+      "Text": "الظَّاهِرُ",
+      "Comment": "Az-Zaahir",
+      "Version for translation ok": "The Perceptible",
+      "undefined": "The Manifest, The One that nothing is above Him and nothing is underneath Him, hence He exists without a place. He, The Exalted, His Existence is obvious by proofs and He is clear from the delusions of attributes of bodies."
+    },
+    {
+      "Section": "76",
+      "Text": "الْبَاطِنُ",
+      "Comment": "Al-Baatin",
+      "Version for translation ok": "The Imperceptible",
+      "undefined": "The Hidden, The One that nothing is above Him and nothing is underneath Him, hence He exists without a place. He, The Exalted, His Existence is obvious by proofs and He is clear from the delusions of attributes of bodies."
+    },
+    {
+      "Section": "77",
+      "Text": "الْوَالِي",
+      "Comment": "Al-Waali",
+      "Version for translation ok": "The Holder of Supreme Authority",
+      "undefined": "The Governor, The One who owns things and manages them."
+    },
+    {
+      "Section": "78",
+      "Text": "الْمُتَعَالِي",
+      "Comment": "Al-Muta’ali",
+      "Version for translation ok": "The Extremely Exalted One",
+      "undefined": "The Most Exalted, The High Exalted, The One who is clear from the attributes of the creation."
+    },
+    {
+      "Section": "79",
+      "Text": "الْبَرُّ",
+      "Comment": "Al-Barr",
+      "Version for translation ok": "The Fountain-Head of Truth",
+      "undefined": "The Source of All Goodness, The Righteous, The One who is kind to His creatures, who covered them with His sustenance and specified whoever He willed among them by His support, protection, and special mercy."
+    },
+    {
+      "Section": "80",
+      "Text": "التَّوَابُ",
+      "Comment": "At-Tawwaab",
+      "Version for translation ok": "The Ever-Acceptor of Repentance",
+      "undefined": "The Relenting, The One who grants repentance to whoever He willed among His creatures and accepts his repentance."
+    },
+    {
+      "Section": "81",
+      "Text": "الْمُنْتَقِمُ",
+      "Comment": "Al-Muntaqim",
+      "Version for translation ok": "The Retaliator",
+      "undefined": "The Avenger, The One who victoriously prevails over His enemies and punishes them for their sins. It may mean the One who destroys them."
+    },
+    {
+      "Section": "82",
+      "Text": "العَفُوُّ",
+      "Comment": "Al-Afuww",
+      "Version for translation ok": "The Supreme Pardoner",
+      "undefined": "The Forgiver, The One with wide forgiveness."
+    },
+    {
+      "Section": "83",
+      "Text": "الرَّؤُوفُ",
+      "Comment": "Ar-Ra’oof",
+      "Version for translation ok": "The Benign One",
+      "undefined": "The Compassionate, The One with extreme Mercy. The Mercy of Allah is His will to endow upon whoever He willed among His creatures."
+    },
+    {
+      "Section": "84",
+      "Text": "مَالِكُ الْمُلْكِ",
+      "Comment": "Maalik-ul-Mulk",
+      "Version for translation ok": "The Eternal Possessor of Sovereignty",
+      "undefined": "The One who controls the Dominion and gives dominion to whoever He willed."
+    },
+    {
+      "Section": "85",
+      "Text": "ذُوالْجَلاَلِ وَالإكْرَامِ",
+      "Comment": "Zul-Jalaali-wal-Ikram",
+      "Version for translation ok": "The Possessor of Majesty and Honour",
+      "undefined": "The Lord of Majesty and Bounty, The One who deserves to be Exalted and not denied."
+    },
+    {
+      "Section": "86",
+      "Text": "الْمُقْسِطُ",
+      "Comment": "Al-Muqsit",
+      "Version for translation ok": "The Just One",
+      "undefined": "The Equitable, The One who is Just in His judgment."
+    },
+    {
+      "Section": "87",
+      "Text": "الْجَامِعُ",
+      "Comment": "Al-Jaami’",
+      "Version for translation ok": "The Assembler of Scattered Creations",
+      "undefined": "The Gatherer, The One who gathers the creatures on a day that there is no doubt about, that is the Day of Judgment."
+    },
+    {
+      "Section": "88",
+      "Text": "الْغَنِيُّ",
+      "Comment": "Al-Ghaniyy",
+      "Version for translation ok": "The Self-Sufficient One",
+      "undefined": "The One who does not need the creation."
+    },
+    {
+      "Section": "89",
+      "Text": "الْمُغْنِي",
+      "Comment": "Al-Mughni",
+      "Version for translation ok": "The Bestower of Sufficiency",
+      "undefined": "The Enricher, The One who satisfies the necessities of the creatures."
+    },
+    {
+      "Section": "90",
+      "Text": "اَلْمَانِعُ",
+      "Comment": "Al-Maani’",
+      "Version for translation ok": "The Preventer",
+      "undefined": "The Withholder."
+    },
+    {
+      "Section": "91",
+      "Text": "الضَّارَّ",
+      "Comment": "Ad-Daarr",
+      "Version for translation ok": "The Distressor",
+      "undefined": "The One who makes harm reach to whoever He willed and benefit to whoever He willed."
+    },
+    {
+      "Section": "92",
+      "Text": "النَّافِعُ",
+      "Comment": "An-Naafi’",
+      "Version for translation ok": "The Bestower of Benefits",
+      "undefined": "The Propitious, The One who makes harm reach to whoever He willed and benefit to whoever He willed."
+    },
+    {
+      "Section": "93",
+      "Text": "النُّورُ",
+      "Comment": "An-Noor",
+      "Version for translation ok": "The Prime Light",
+      "undefined": "The Light, The One who guides."
+    },
+    {
+      "Section": "94",
+      "Text": "الْهَادِي",
+      "Comment": "Al-Haadi",
+      "Version for translation ok": "The Provider of Guidance",
+      "undefined": "The Guide, The One whom with His Guidance His believers were guided, and with His Guidance the living beings have been guided to what is beneficial for them and protected from what is harmful to them."
+    },
+    {
+      "Section": "95",
+      "Text": "الْبَدِيعُ",
+      "Comment": "Al-Badi’",
+      "Version for translation ok": "The Unique One",
+      "undefined": "The Incomparable, The One who created the creation and formed it without any preceding example."
+    },
+    {
+      "Section": "96",
+      "Text": "اَلْبَاقِي",
+      "Comment": "Al-Baaqi",
+      "Version for translation ok": "The Ever Surviving One",
+      "undefined": "The Everlasting, The One that the state of non-existence is impossible for Him."
+    },
+    {
+      "Section": "97",
+      "Text": "الْوَارِثُ",
+      "Comment": "Al-Waaris",
+      "Version for translation ok": "The Eternal Inheritor",
+      "undefined": "The Heir, The One whose Existence remains."
+    },
+    {
+      "Section": "98",
+      "Text": "الرَّشِيدُ",
+      "Comment": "Ar-Rasheed",
+      "Version for translation ok": "The Guide to Path of Rectitude",
+      "undefined": "The Guide to the Right Path, The One who guides."
+    },
+    {
+      "Section": "99",
+      "Text": "الصَّبُورُ",
+      "Comment": "As-Saboor",
+      "Version for translation ok": "The Extensively Enduring One",
+      "undefined": "The Patient, The One who does not quickly punish the sinners."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:id="@+id/lnr_popup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:background="@drawable/img_popup_bg"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txt_desc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="@color/colorYellow"
+            android:paddingRight="15dp"
+            android:paddingLeft="15dp"
+            android:paddingTop="60dp"
+            android:text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not"
+            android:textSize="18sp" />
+
+        <Button
+            android:layout_marginTop="15dp"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/btn_close"
+            android:textSize="18sp"
+            android:textColor="@color/colorYellow"
+            android:textAllCaps="false"
+            android:background="@drawable/bg_btn_border_yellow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Close" />
+    </LinearLayout>
+
+    <Button
+        android:visibility="gone"
+        android:layout_marginTop="15dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/lnr_popup"
+        android:id="@+id/btn_close1"
+        android:textSize="18sp"
+        android:textColor="@color/colorYellow"
+        android:textAllCaps="false"
+        android:background="@drawable/bg_btn_border_yellow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Close" />
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/ic_popup_logo"
+        android:visibility="gone" />
+</RelativeLayout>

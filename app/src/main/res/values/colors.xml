@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#EDBE00</color>
+
+    <color name="colorBlack">#000</color>
+    <color name="colorBlackTransperent">#8a000000</color>
+    <color name="colorBlackTransperentLite">#52000000</color>
+    <color name="colorWhite">#FFF</color>
+    <color name="colorYellow">#EDBE00</color>
+    <color name="colorLightYellow">#FEF5E5</color>
+    <color name="colorPerfectYellow">#FEED5B</color>
+
+    <color name="colorMenuText">#F8F1DD</color>
+    <color name="colorScrollIndicator">#A28543</color>
+    <color name="colorDarkDuas">#8C6A1B</color>
+    <color name="colorPrayerTracker">#4E3E00</color>
+    <color name="colorBlue">#5B8FFF</color>
+    <color name="colorBgPopup">#D6D6D6</color>
+    <color name="colorDarkGray">#C4C4C4</color>
+    <color name="brown">#9F8F7B</color>
+    <color name="light_brown">#CEB9A4</color>
+
+
+    <color name="semi_transparent">#50000000</color>
+
+
+    <color name="transparent_black">#aa000000</color>
+
+    <!-- selected tab text -->
+    <color name="selected_tabtext">#bb000000</color>
+
+    <!-- non selected tab text -->
+    <color name="unselected_tabtext">#77000000</color>
+    <color name="shuffle_grey">#ffdedede</color>
+    <color name="background_grey">#ffdedede</color>
+
+    <!-- Transparent -->
+    <color name="transparent">#00000000</color>
+
+    <!-- Black -->
+    <color name="black">#ff000000</color>
+
+    <!-- White -->
+    <color name="white">#ffffffff</color>
+
+</resources>

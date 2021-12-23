@@ -1,0 +1,1661 @@
+{
+  "Hadith Book name": [
+    {
+      "collection": "Sahih al-Bukhari ",
+      "Id": "1",
+      "books": [
+        {
+          "Name": "Revelation",
+          "Id": "1"
+        },
+        {
+          "Name": "Belief",
+          "Id": "2"
+        },
+        {
+          "Name": "Knowledge",
+          "Id": "3"
+        },
+        {
+          "Name": "Ablutions",
+          "Id": "4"
+        },
+        {
+          "Name": "Bathing (Ghusl)",
+          "Id": "5"
+        },
+        {
+          "Name": "Menstrual Periods",
+          "Id": "6"
+        },
+        {
+          "Name": "Ablution with dust",
+          "Id": "7"
+        },
+        {
+          "Name": "Prayer (Salat)",
+          "Id": "8"
+        },
+        {
+          "Name": "Prayer Hall (Sutra)",
+          "Id": "9"
+        },
+        {
+          "Name": "Times of the Prayer",
+          "Id": "10"
+        },
+        {
+          "Name": "Call to Prayer",
+          "Id": "11"
+        },
+        {
+          "Name": "Characteristics of Prayer",
+          "Id": "12"
+        },
+        {
+          "Name": "Friday of prayer",
+          "Id": "13"
+        },
+        {
+          "Name": "Fear Prayer",
+          "Id": "14"
+        },
+        {
+          "Name": "The Two Festivals",
+          "Id": "15"
+        },
+        {
+          "Name": "Witr Prayer",
+          "Id": "16"
+        },
+        {
+          "Name": "Dua' for Rain",
+          "Id": "17"
+        },
+        {
+          "Name": "Eclipses",
+          "Id": "18"
+        },
+        {
+          "Name": "Prostration",
+          "Id": "19"
+        },
+        {
+          "Name": "Shortening",
+          "Id": "20"
+        },
+        {
+          "Name": "Night Prayer",
+          "Id": "21"
+        },
+        {
+          "Name": "Actions while Praying",
+          "Id": "22"
+        },
+        {
+          "Name": "Funerals (Al-Janaa'iz)",
+          "Id": "23"
+        },
+        {
+          "Name": "Tax (Zakat)",
+          "Id": "24"
+        },
+        {
+          "Name": "Tax (Zakat ul Fitr)",
+          "Id": "25"
+        },
+        {
+          "Name": "Pilgrimmage ",
+          "Id": "26"
+        },
+        {
+          "Name": "Minor Pilgrimmage",
+          "Id": "27"
+        },
+        {
+          "Name": "Pilgrims Prevented",
+          "Id": "28"
+        },
+        {
+          "Name": "Prilgrims Hunting Penalty",
+          "Id": "29"
+        },
+        {
+          "Name": "Virtues of Madinah",
+          "Id": "30"
+        },
+        {
+          "Name": "Fasting",
+          "Id": "31"
+        },
+        {
+          "Name": "Ramadan Prayer",
+          "Id": "32"
+        },
+        {
+          "Name": "Stay in Mosque",
+          "Id": "33"
+        },
+        {
+          "Name": "Sales and Trade",
+          "Id": "34"
+        },
+        {
+          "Name": "Paid in Advance",
+          "Id": "35"
+        },
+        {
+          "Name": "Hiring",
+          "Id": "36"
+        },
+        {
+          "Name": "Debt Transfer",
+          "Id": "37"
+        },
+        {
+          "Name": "Business by Proxy",
+          "Id": "38"
+        },
+        {
+          "Name": "Agriculture",
+          "Id": "39"
+        },
+        {
+          "Name": " Distributing Water",
+          "Id": "40"
+        },
+        {
+          "Name": "Loans, Bankruptcy",
+          "Id": "41"
+        },
+        {
+          "Name": "Lost &amp; Found",
+          "Id": "42"
+        },
+        {
+          "Name": "Oppressions",
+          "Id": "43"
+        },
+        {
+          "Name": "Partnership",
+          "Id": "44"
+        },
+        {
+          "Name": "Mortgaging",
+          "Id": "45"
+        },
+        {
+          "Name": "Freeing Slaves",
+          "Id": "46"
+        },
+        {
+          "Name": "Gifts",
+          "Id": "47"
+        },
+        {
+          "Name": "Witnesses",
+          "Id": "48"
+        },
+        {
+          "Name": "Peacemaking",
+          "Id": "49"
+        },
+        {
+          "Name": "Conditions",
+          "Id": "50"
+        },
+        {
+          "Name": "Wills",
+          "Id": "51"
+        },
+        {
+          "Name": "Jihaad",
+          "Id": "52"
+        },
+        {
+          "Name": "One-fifth of Booty",
+          "Id": "53"
+        },
+        {
+          "Name": "Beginning of Creation",
+          "Id": "54"
+        },
+        {
+          "Name": "Prophets",
+          "Id": "55"
+        },
+        {
+          "Name": "Merits of Sunnah",
+          "Id": "56"
+        },
+        {
+          "Name": "The Companions",
+          "Id": "57"
+        },
+        {
+          "Name": "Merits of Al-Ansaar",
+          "Id": "58"
+        },
+        {
+          "Name": "Expeditions",
+          "Id": "59"
+        },
+        {
+          "Name": "Prophetic Commentary",
+          "Id": "60"
+        },
+        {
+          "Name": "Virtues of the Qur'an",
+          "Id": "61"
+        },
+        {
+          "Name": "Marriage",
+          "Id": "62"
+        },
+        {
+          "Name": "Divorce",
+          "Id": "63"
+        },
+        {
+          "Name": "Supporting Family",
+          "Id": "64"
+        },
+        {
+          "Name": "Food, Meals",
+          "Id": "65"
+        },
+        {
+          "Name": "Sacrifice on Birth",
+          "Id": "66"
+        },
+        {
+          "Name": "Hunting, Slaughter",
+          "Id": "67"
+        },
+        {
+          "Name": "Al-Adha Sacrifice",
+          "Id": "68"
+        },
+        {
+          "Name": "Drinks",
+          "Id": "69"
+        },
+        {
+          "Name": "Patients",
+          "Id": "70"
+        },
+        {
+          "Name": "Medicine",
+          "Id": "71"
+        },
+        {
+          "Name": "Dress",
+          "Id": "72"
+        },
+        {
+          "Name": "Good Manners",
+          "Id": "73"
+        },
+        {
+          "Name": "Asking Permission",
+          "Id": "74"
+        },
+        {
+          "Name": "Invocations",
+          "Id": "75"
+        },
+        {
+          "Name": "Softening the Heart",
+          "Id": "76"
+        },
+        {
+          "Name": "Divine Will (Qadar)",
+          "Id": "77"
+        },
+        {
+          "Name": "Oaths and Vows",
+          "Id": "78"
+        },
+        {
+          "Name": "Unfulfilled Oaths",
+          "Id": "79"
+        },
+        {
+          "Name": "Inheritance Laws",
+          "Id": "80"
+        },
+        {
+          "Name": "Punishment Laws",
+          "Id": "81"
+        },
+        {
+          "Name": "Disbelievers (war",
+          "Id": "82"
+        },
+        {
+          "Name": "Blood Money",
+          "Id": "83"
+        },
+        {
+          "Name": "Dealing with Apostates",
+          "Id": "84"
+        },
+        {
+          "Name": "Under Duress",
+          "Id": "85"
+        },
+        {
+          "Name": "Tricks",
+          "Id": "86"
+        },
+        {
+          "Name": "Interpretations of Dreams",
+          "Id": "87"
+        },
+        {
+          "Name": "End of the World",
+          "Id": "88"
+        },
+        {
+          "Name": "Judgments",
+          "Id": "89"
+        },
+        {
+          "Name": "Wishes",
+          "Id": "90"
+        },
+        {
+          "Name": "Truthful Word",
+          "Id": "91"
+        },
+        {
+          "Name": "Holding Steadfast",
+          "Id": "92"
+        },
+        {
+          "Name": "Oneness of Allah",
+          "Id": "93"
+        }
+
+
+      ]
+    },
+    {
+      "collection": "Sahih Muslim",
+      "Id": "2",
+      "books": [
+        {
+          "Name": "Faith",
+          "Id": "1"
+        },
+        {
+          "Name": "Purification",
+          "Id": "2"
+        },
+        {
+          "Name": "Menstruation",
+          "Id": "3"
+        },
+        {
+          "Name": "Prayers",
+          "Id": "4"
+        },
+        {
+          "Name": "Zakat",
+          "Id": "5"
+        },
+        {
+          "Name": "Fasting",
+          "Id": "6"
+        },
+        {
+          "Name": "Pilgrimage",
+          "Id": "7"
+        },
+        {
+          "Name": "Marriage",
+          "Id": "8"
+        },
+        {
+          "Name": "Divorce (Kitab Al-Talaq)",
+          "Id": "9"
+        },
+        {
+          "Name": "Transactions",
+          "Id": "10"
+        },
+        {
+          "Name": "Rules of Inheritance",
+          "Id": "11"
+        },
+        {
+          "Name": "Gifts",
+          "Id": "12"
+        },
+        {
+          "Name": "Bequests",
+          "Id": "13"
+        },
+        {
+          "Name": "Vows",
+          "Id": "14"
+        },
+        {
+          "Name": "Oaths",
+          "Id": "15"
+        },
+        {
+          "Name": "Oaths, Muharibin, Retaliation, and Blood Money",
+          "Id": "16"
+        },
+        {
+          "Name": "Legal Punishments",
+          "Id": "17"
+        },
+        {
+          "Name": "Judicial Decisions",
+          "Id": "18"
+        },
+        {
+          "Name": "Jihad and Expedition",
+          "Id": "19"
+        },
+        {
+          "Name": "Government",
+          "Id": "20"
+        },
+        {
+          "Name": "Hunting, Slaughter and what may be Eaten",
+          "Id": "21"
+        },
+        {
+          "Name": "Sacrifices",
+          "Id": "22"
+        },
+        {
+          "Name": "Drinks",
+          "Id": "23"
+        },
+        {
+          "Name": "Clothes and Adornment",
+          "Id": "24"
+        },
+        {
+          "Name": "Manners and Etiquette",
+          "Id": "25"
+        },
+        {
+          "Name": "Greetings",
+          "Id": "26"
+        },
+        {
+          "Name": "Concerning the Use of Correct Words",
+          "Id": "27"
+        },
+        {
+          "Name": "Poetry",
+          "Id": "28"
+        },
+        {
+          "Name": "Dreams",
+          "Id": "29"
+        },
+        {
+          "Name": "Virtues",
+          "Id": "30"
+        },
+        {
+          "Name": "the Merits of the Companions",
+          "Id": "31"
+        },
+        {
+          "Name": "Virtue, Enjoining Good Manners and Joining of the Ties of Kinship",
+          "Id": "32"
+        },
+        {
+          "Name": "Destiny",
+          "Id": "33"
+        },
+        {
+          "Name": "Knowledge",
+          "Id": "34"
+        },
+        {
+          "Name": "Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness",
+          "Id": "35"
+        },
+        {
+          "Name": "Heart-Melting Traditions",
+          "Id": "36"
+        },
+        {
+          "Name": "Repentance",
+          "Id": "37"
+        },
+        {
+          "Name": "Characteristics of The Hypocrites And Ruling Concerning Them",
+          "Id": "38"
+        },
+        {
+          "Name": "Characteristics of the Day of Judgement, Paradise and Hell",
+          "Id": "39"
+        },
+        {
+          "Name": "Paradise, its Description, its Bounties and its Inhabitants",
+          "Id": "40"
+        },
+        {
+          "Name": "Tribulations and Portents of the Last Hour",
+          "Id": "41"
+        },
+        {
+          "Name": "Zuhd and Softening of Hearts",
+          "Id": "42"
+        },
+        {
+          "Name": "Commentary (Tafsir) on the Quran",
+          "Id": "43"
+        }
+
+      ]
+    },
+
+    {
+      "collection": "Muwatta Imam Malik ",
+      "Id": "4",
+      "books": [
+        {
+          "Name": "The Times of Prayer",
+          "Id": "1"
+        },
+        {
+          "Name": "Purity",
+          "Id": "2"
+        },
+        {
+          "Name": "Prayer",
+          "Id": "3"
+        },
+        {
+          "Name": "Forgetfulness",
+          "Id": "4"
+        },
+        {
+          "Name": "Jumu'a",
+          "Id": "5"
+        },
+        {
+          "Name": "Prayer in Ramadan",
+          "Id": "6"
+        },
+        {
+          "Name": "Tahajjud",
+          "Id": "7"
+        },
+        {
+          "Name": "Prayer in Congregation",
+          "Id": "8"
+        },
+        {
+          "Name": "Shortening the Prayer",
+          "Id": "9"
+        },
+        {
+          "Name": "The Two 'Ids",
+          "Id": "10"
+        },
+        {
+          "Name": "The Fear Prayer",
+          "Id": "11"
+        },
+        {
+          "Name": "The Eclipse Prayer",
+          "Id": "12"
+        },
+        {
+          "Name": "Asking for Rain",
+          "Id": "13"
+        },
+        {
+          "Name": "The Qibla",
+          "Id": "14"
+        },
+        {
+          "Name": "The Qur'an",
+          "Id": "15"
+        },
+        {
+          "Name": "Burials",
+          "Id": "16"
+        },
+        {
+          "Name": "Zakat",
+          "Id": "17"
+        },
+        {
+          "Name": "Fasting",
+          "Id": "18"
+        },
+        {
+          "Name": "I'tikaf in Ramadan",
+          "Id": "19"
+        },
+        {
+          "Name": "Hajj",
+          "Id": "20"
+        },
+        {
+          "Name": "Jihad",
+          "Id": "21"
+        },
+        {
+          "Name": "Vows and Oaths",
+          "Id": "22"
+        },
+        {
+          "Name": "Sacrificial Animals",
+          "Id": "23"
+        },
+        {
+          "Name": "Slaughtering Animals",
+          "Id": "24"
+        },
+        {
+          "Name": "Game",
+          "Id": "25"
+        },
+        {
+          "Name": "The 'Aqiqa",
+          "Id": "26"
+        },
+        {
+          "Name": "Fara'id",
+          "Id": "27"
+        },
+        {
+          "Name": "Marriage",
+          "Id": "28"
+        },
+        {
+          "Name": "Divorce",
+          "Id": "29"
+        },
+        {
+          "Name": "Suckling",
+          "Id": "30"
+        },
+        {
+          "Name": "Business Transactions",
+          "Id": "31"
+        },
+        {
+          "Name": " Qirad",
+          "Id": "32"
+        },
+        {
+          "Name": "Sharecropping",
+          "Id": "33"
+        },
+        {
+          "Name": "Renting Land",
+          "Id": "34"
+        },
+        {
+          "Name": "Pre-emption in Property",
+          "Id": "35"
+        },
+        {
+          "Name": "Judgements",
+          "Id": "36"
+        },
+        {
+          "Name": "Wills and Testaments",
+          "Id": "37"
+        },
+        {
+          "Name": "Setting Free and Wala'",
+          "Id": "38"
+        },
+        {
+          "Name": "The Mukatab",
+          "Id": "39"
+        },
+        {
+          "Name": "The Mudabbar",
+          "Id": "40"
+        },
+        {
+          "Name": "Hudud",
+          "Id": "41"
+        },
+        {
+          "Name": "Drinks",
+          "Id": "42"
+        },
+        {
+          "Name": "Blood-Money",
+          "Id": "43"
+        },
+        {
+          "Name": "The Oath of Qasama",
+          "Id": "44"
+        },
+        {
+          "Name": "Madina",
+          "Id": "45"
+        },
+        {
+          "Name": "The Decree",
+          "Id": "46"
+        },
+        {
+          "Name": "Good Character",
+          "Id": "47"
+        },
+        {
+          "Name": "Dress",
+          "Id": "48"
+        },
+        {
+          "Name": "The Description of the Prophet, may Allah Bless Him and Grant Him Peace",
+          "Id": "49"
+        },
+        {
+          "Name": "The Evil Eye",
+          "Id": "50"
+        },
+        {
+          "Name": "Hair",
+          "Id": "51"
+        },
+        {
+          "Name": "Visions",
+          "Id": "52"
+        },
+        {
+          "Name": "Greetings",
+          "Id": "53"
+        },
+        {
+          "Name": "General Subjects",
+          "Id": "54"
+        },
+        {
+          "Name": "The Oath of Allegiance",
+          "Id": "55"
+        },
+        {
+          "Name": "Speech",
+          "Id": "56"
+        },
+        {
+          "Name": "Jahannam",
+          "Id": "57"
+        },
+        {
+          "Name": "Sadaqa",
+          "Id": "58"
+        },
+        {
+          "Name": "Knowledge",
+          "Id": "59"
+        },
+        {
+          "Name": "The Supplication of the Unjustly Wronged",
+          "Id": "60"
+        },
+        {
+          "Name": "The Names of the Prophet, may Allah Bless Him and Grant Him Peace",
+          "Id": "61"
+        }
+
+      ]
+    },
+
+    {
+      "collection": "Jami` at-Tirmidhi",
+      "Id": "6",
+      "books": [
+        {
+          "Name": "Purification",
+          "Id": "1"
+        },
+        {
+          "Name": "Salat",
+          "Id": "2"
+        },
+        {
+          "Name": "Al-Witr",
+          "Id": "3"
+        },
+        {
+          "Name": "Al-Jumua`h (Friday)",
+          "Id": "4"
+        },
+        {
+          "Name": "Two Eids",
+          "Id": "5"
+        },
+        {
+          "Name": "Travelling",
+          "Id": "6"
+        },
+        {
+          "Name": "Zakaat",
+          "Id": "7"
+        },
+        {
+          "Name": "Fasting",
+          "Id": "8"
+        },
+        {
+          "Name": "Hajj",
+          "Id": "9"
+        },
+        {
+          "Name": "Jana`iz",
+          "Id": "10"
+        },
+        {
+          "Name": "Marriage",
+          "Id": "11"
+        },
+        {
+          "Name": "Suckling",
+          "Id": "12"
+        },
+        {
+          "Name": "Divorce",
+          "Id": "13"
+        },
+        {
+          "Name": "Business",
+          "Id": "14"
+        },
+        {
+          "Name": "Judgement",
+          "Id": "15"
+        },
+        {
+          "Name": "Blood-Money",
+          "Id": "16"
+        },
+        {
+          "Name": "Legal Punishments",
+          "Id": "17"
+        },
+        {
+          "Name": "Hunting",
+          "Id": "18"
+        },
+        {
+          "Name": "Sacrifices",
+          "Id": "19"
+        },
+        {
+          "Name": "Vows And Oaths",
+          "Id": "20"
+        },
+        {
+          "Name": "Military Expeditions",
+          "Id": "21"
+        },
+        {
+          "Name": "The Virtues Of Jihad",
+          "Id": "22"
+        },
+        {
+          "Name": "Jihad",
+          "Id": "23"
+        },
+        {
+          "Name": "Clothing",
+          "Id": "24"
+        },
+        {
+          "Name": "Food",
+          "Id": "25"
+        },
+        {
+          "Name": "Drinks",
+          "Id": "26"
+        },
+        {
+          "Name": "Righteousness And Maintaining Good Relations With Relatives",
+          "Id": "27"
+        },
+        {
+          "Name": "Medicine",
+          "Id": "28"
+        },
+        {
+          "Name": "Inheritance",
+          "Id": "29"
+        },
+        {
+          "Name": "Wasaayaa (Wills And Testaments)",
+          "Id": "30"
+        },
+        {
+          "Name": "Walaa and Gifts",
+          "Id": "31"
+        },
+        {
+          "Name": "Al-Qadar",
+          "Id": "32"
+        },
+        {
+          "Name": "Al-Fitan",
+          "Id": "33"
+        },
+        {
+          "Name": "Dreams",
+          "Id": "34"
+        },
+        {
+          "Name": "Witnesses",
+          "Id": "35"
+        },
+        {
+          "Name": "Zuhd",
+          "Id": "36"
+        },
+        {
+          "Name": "The Description Of The Day Of Judgment, And Ar-Riqaq, And Al-Wara'",
+          "Id": "37"
+        },
+        {
+          "Name": "The Description Of Paradise",
+          "Id": "38"
+        },
+        {
+          "Name": "The Description Of Hell",
+          "Id": "39"
+        },
+        {
+          "Name": "Faith",
+          "Id": "40"
+        },
+        {
+          "Name": "Knowledge",
+          "Id": "41"
+        },
+        {
+          "Name": "Seeking Permissions (And Chapters On Manners)",
+          "Id": "42"
+        },
+        {
+          "Name": "Manners",
+          "Id": "43"
+        },
+        {
+          "Name": "Virtues Of The Qur'an",
+          "Id": "44"
+        },
+        {
+          "Name": "Recitation",
+          "Id": "45"
+        },
+        {
+          "Name": "Tafsir Of The Qur'an",
+          "Id": "46"
+        },
+        {
+          "Name": "Supplications",
+          "Id": "47"
+        },
+        {
+          "Name": "Al-Manaqib (Virtues)",
+          "Id": "48"
+        }
+      ]
+    },
+
+
+    {
+      "collection": "Sunan Ibn Majah",
+      "Id": "7",
+      "books": [
+        {
+          "Name": "Purification and its Sunnah",
+          "Id": "1"
+        },
+        {
+          "Name": "the Praye",
+          "Id": "2"
+        },
+        {
+          "Name": "the Adhan and the Sunnah Regarding It",
+          "Id": "3"
+        },
+        {
+          "Name": "On The Mosques And The Congregations",
+          "Id": "4"
+        },
+        {
+          "Name": "Establishing the Prayer and the Sunnah Regarding Them",
+          "Id": "5"
+        },
+        {
+          "Name": "Chapters Regarding Funerals",
+          "Id": "6"
+        },
+        {
+          "Name": "Fasting",
+          "Id": "7"
+        },
+        {
+          "Name": "Chapters Regarding Zakat",
+          "Id": "8"
+        },
+        {
+          "Name": "Chapters on Marriage",
+          "Id": "9"
+        },
+        {
+          "Name": "Chapters on Divorce",
+          "Id": "10"
+        },
+        {
+          "Name": "Chapters on Expiation",
+          "Id": "11"
+        },
+        {
+          "Name": "Chapters on Business Transactions",
+          "Id": "12"
+        },
+        {
+          "Name": "Chapters on Rulings",
+          "Id": "13"
+        },
+        {
+          "Name": "Chapters on Gifts",
+          "Id": "14"
+        },
+        {
+          "Name": "Chapters on Charity",
+          "Id": "15"
+        },
+        {
+          "Name": "Chapters on Pawning",
+          "Id": "16"
+        },
+        {
+          "Name": "Chapters on Pre-emption",
+          "Id": "17"
+        },
+        {
+          "Name": "Chapters on Lost Property",
+          "Id": "18"
+        },
+        {
+          "Name": "Chapters on Manumission (of Slaves)",
+          "Id": "19"
+        },
+        {
+          "Name": "Chapters on Legal Punishments",
+          "Id": "20"
+        },
+        {
+          "Name": "Chapters on Blood Money",
+          "Id": "21"
+        },
+        {
+          "Name": "Chapters on Wills",
+          "Id": "22"
+        },
+        {
+          "Name": "Chapters on Shares of Inheritance",
+          "Id": "23"
+        },
+        {
+          "Name": "Chapters on Jihad",
+          "Id": "24"
+        },
+        {
+          "Name": "Chapters on Hajj Rituals",
+          "Id": "25"
+        },
+        {
+          "Name": "Chapters on Sacrifices",
+          "Id": "26"
+        },
+        {
+          "Name": "Chapters on Slaughtering",
+          "Id": "27"
+        },
+        {
+          "Name": "Chapters on Hunting",
+          "Id": "28"
+        },
+        {
+          "Name": "Chapters on Food",
+          "Id": "29"
+        },
+        {
+          "Name": "Chapters on Drinks",
+          "Id": "30"
+        },
+        {
+          "Name": "Chapters on Medicine",
+          "Id": "31"
+        },
+        {
+          "Name": "Chapters on Dress",
+          "Id": "32"
+        },
+        {
+          "Name": "Etiquette",
+          "Id": "33"
+        },
+        {
+          "Name": "Supplication",
+          "Id": "34"
+        },
+        {
+          "Name": "Interpretation of Dreams",
+          "Id": "35"
+        },
+        {
+          "Name": "Tribulations",
+          "Id": "36"
+        },
+        {
+          "Name": "Zuhd",
+          "Id": "37"
+        }
+
+
+      ]
+    },
+
+
+    {
+      "collection": "Sunan an-Nasa'i",
+      "Id": "9",
+      "books": [
+        {
+          "Name": "Purification",
+          "Id": "1"
+        },
+        {
+          "Name": "Water",
+          "Id": "2"
+        },
+        {
+          "Name": "Menstruation and Istihadah",
+          "Id": "3"
+        },
+        {
+          "Name": "Ghusl and Tayammum",
+          "Id": "4"
+        },
+        {
+          "Name": "Salah",
+          "Id": "5"
+        },
+        {
+          "Name": "The Times (of Prayer)",
+          "Id": "6"
+        },
+        {
+          "Name": "The Adhan (The Call to Prayer)",
+          "Id": "7"
+        },
+        {
+          "Name": "The Masjids",
+          "Id": "8"
+        },
+        {
+          "Name": "The Qiblah",
+          "Id": "9"
+        },
+        {
+          "Name": "Leading the Prayer (Al-Imamah",
+          "Id": "10"
+        },
+        {
+          "Name": "the Commencement of the Prayer",
+          "Id": "11"
+        },
+        {
+          "Name": "The At-Tatbiq (Clasping One's Hands Together)",
+          "Id": "12"
+        },
+        {
+          "Name": "Forgetfulness (In Prayer)",
+          "Id": "13"
+        },
+        {
+          "Name": "Jumu'ah (Friday Prayer)",
+          "Id": "14"
+        },
+        {
+          "Name": "Shortening the Prayer When Traveling",
+          "Id": "15"
+        },
+        {
+          "Name": "Eclipses",
+          "Id": "16"
+        },
+        {
+          "Name": "Praying for Rain (Al-Istisqa')",
+          "Id": "17"
+        },
+        {
+          "Name": "The Fear Prayer",
+          "Id": "18"
+        },
+        {
+          "Name": "The Prayer for the Two 'Eids",
+          "Id": "19"
+        },
+        {
+          "Name": "Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+          "Id": "20"
+        },
+        {
+          "Name": "Funerals",
+          "Id": "21"
+        },
+        {
+          "Name": "Fasting",
+          "Id": "22"
+        },
+        {
+          "Name": "Zakah",
+          "Id": "23"
+        },
+        {
+          "Name": "Hajj",
+          "Id": "24"
+        },
+        {
+          "Name": "Jihad",
+          "Id": "25"
+        },
+        {
+          "Name": "Marriage",
+          "Id": "26"
+        },
+        {
+          "Name": "Divorce",
+          "Id": "27"
+        },
+        {
+          "Name": "Horses, Races and Shooting",
+          "Id": "28"
+        },
+        {
+          "Name": "Endowments",
+          "Id": "29"
+        },
+        {
+          "Name": "Wills",
+          "Id": "30"
+        },
+        {
+          "Name": "Presents",
+          "Id": "31"
+        },
+        {
+          "Name": "Gifts",
+          "Id": "32"
+        },
+        {
+          "Name": "ar-Ruqba",
+          "Id": "33"
+        },
+        {
+          "Name": "Umra",
+          "Id": "34"
+        },
+        {
+          "Name": "Oaths and Vows &amp;",
+          "Id": "35"
+        },
+        {
+          "Name": "Agriculture",
+          "Id": "36"
+        },
+        {
+          "Name": "Fighting [The Prohibition of Bloodshed]",
+          "Id": "37"
+        },
+        {
+          "Name": "Distribution of Al-Fay",
+          "Id": "38"
+        },
+        {
+          "Name": "al-Bay'ah",
+          "Id": "39"
+        },
+        {
+          "Name": "al-'Aqiqah",
+          "Id": "40"
+        },
+        {
+          "Name": "al-Fara' and al-'Atirah",
+          "Id": "41"
+        },
+        {
+          "Name": "Hunting and Slaughtering",
+          "Id": "42"
+        },
+        {
+          "Name": "ad-Dahaya (Sacrifices)",
+          "Id": "43"
+        },
+        {
+          "Name": "Financial Transactions",
+          "Id": "44"
+        },
+        {
+          "Name": "Oaths, Retaliation and Blood Money",
+          "Id": "45"
+        },
+        {
+          "Name": "Cutting off the Hand of the Thief",
+          "Id": "46"
+        },
+        {
+          "Name": "Faith and its Signs",
+          "Id": "47"
+        },
+        {
+          "Name": "Adornment",
+          "Id": "48"
+        },
+        {
+          "Name": "the Etiquette of Judges",
+          "Id": "49"
+        },
+        {
+          "Name": "Seeking Refuge with Allah",
+          "Id": "50"
+        },
+        {
+          "Name": "Drinks",
+          "Id": "51"
+        }
+      ]
+    },
+
+    {
+      "collection": "Sunan Abu Dawood",
+      "Id": "3",
+      "books": [
+        {
+          "Name": "Purification (Kitab Al-Taharah)",
+          "Id": "1"
+        },
+        {
+          "Name": "Prayer (Kitab Al-Salat)",
+          "Id": "2"
+        },
+        {
+          "Name": "Prayer (Rain)",
+          "Id": "3"
+        },
+        {
+          "Name": "Prayer (Prayers During Journey)",
+          "Id": "4"
+        },
+        {
+          "Name": "Prayer (Voluntary Prayers)",
+          "Id": "5"
+        },
+        {
+          "Name": "Prayer (Detailed Injunctions about Ramadan)",
+          "Id": "6"
+        },
+        {
+          "Name": "Prayer (Prostration while reciting the Quran)",
+          "Id": "7"
+        },
+        {
+          "Name": "Prayer (Detailed Injunctions about Witr)",
+          "Id": "8"
+        },
+        {
+          "Name": "Zakat (Kitab Al-Zakat)",
+          "Id": "9"
+        },
+        {
+          "Name": "The Book of Lost and Found Items",
+          "Id": "10"
+        },
+        {
+          "Name": "The Rites of Hajj",
+          "Id": "11"
+        },
+        {
+          "Name": "Marriage (Kitab Al-Nikah)",
+          "Id": "12"
+        },
+        {
+          "Name": "Divorce (Kitab Al-Talaq)",
+          "Id": "13"
+        },
+        {
+          "Name": "Fasting (Kitab Al-Siyam)",
+          "Id": "14"
+        },
+        {
+          "Name": "Jihad (Kitab Al-Jihad)",
+          "Id": "15"
+        },
+        {
+          "Name": "Sacrifice (Kitab Al-Dahaya)",
+          "Id": "16"
+        },
+        {
+          "Name": "Game (Kitab Al-Said)",
+          "Id": "17"
+        },
+        {
+          "Name": "Wills (Kitab Al-Wasaya)",
+          "Id": "18"
+        },
+        {
+          "Name": "Shares of Inheritance",
+          "Id": "19"
+        },
+        {
+          "Name": "Tribute, Spoils, and Rulership",
+          "Id": "20"
+        },
+        {
+          "Name": "Funerals (Kitab Al-Janaiz)",
+          "Id": "21"
+        },
+        {
+          "Name": "Oaths and Vows",
+          "Id": "22"
+        },
+        {
+          "Name": "Commercial Transactions",
+          "Id": "23"
+        },
+        {
+          "Name": "Wages (Kitab Al-Ijarah)",
+          "Id": "24"
+        },
+        {
+          "Name": "The Office of the Judge",
+          "Id": "25"
+        },
+        {
+          "Name": "Knowledge (Kitab Al-Ilm)",
+          "Id": "26"
+        },
+        {
+          "Name": "Drinks (Kitab Al-Ashribah)",
+          "Id": "27"
+        },
+        {
+          "Name": "Foods (Kitab Al-Atimah)",
+          "Id": "28"
+        },
+        {
+          "Name": "Medicine (Kitab Al-Tibb)",
+          "Id": "29"
+        },
+        {
+          "Name": "Divination and Omen",
+          "Id": "30"
+        },
+        {
+          "Name": "The Book of Manumission of Slaves",
+          "Id": "31"
+        },
+        {
+          "Name": "Dialects and Readings of the Quran",
+          "Id": "32"
+        },
+        {
+          "Name": "Hot Baths (Kitab Al-Hammam",
+          "Id": "33"
+        },
+        {
+          "Name": "Clothing (Kitab Al-Libas)",
+          "Id": "34"
+        },
+        {
+          "Name": "Combing the Hair (Kitab Al-Tarajjul",
+          "Id": "35"
+        },
+        {
+          "Name": " Signet-Rings (Kitab Al-Khatam)",
+          "Id": "36"
+        },
+        {
+          "Name": "Trials and Fierce Battles",
+          "Id": "37"
+        },
+        {
+          "Name": "The Promised Deliverer (Kitab Al-Mahdi)",
+          "Id": "38"
+        },
+        {
+          "Name": "Battles (Kitab Al-Malahim)",
+          "Id": "39"
+        },
+        {
+          "Name": "Prescribed Punishments (Kitab Al-Hudud)</",
+          "Id": "40"
+        },
+        {
+          "Name": "Types of Blood-Wit (Kitab Al-Diyat",
+          "Id": "41"
+        },
+        {
+          "Name": "Model Behavior of the Prophet",
+          "Id": "42"
+        },
+        {
+          "Name": "General Behavior (Kitab Al-Adab)",
+          "Id": "43"
+        }
+
+
+      ]
+    },
+
+    {
+      "collection": "Riyad Us Saliheen",
+      "Id": "10",
+      "books": [
+        {
+          "Name": "Miscellany",
+          "Id": "1"
+        },
+        {
+          "Name": "Good Manners",
+          "Id": "2"
+        },
+        {
+          "Name": "Etiquette of Eating",
+          "Id": "3"
+        },
+        {
+          "Name": "Dress",
+          "Id": "4"
+        },
+        {
+          "Name": "Etiquette of Sleeping Lying and Sitting etc",
+          "Id": "5"
+        },
+        {
+          "Name": "Greetings",
+          "Id": "6"
+        },
+        {
+          "Name": "Visiting the Sick",
+          "Id": "7"
+        },
+        {
+          "Name": "Etiquette of Traveling",
+          "Id": "8"
+        },
+        {
+          "Name": "Virtues",
+          "Id": "9"
+        },
+        {
+          "Name": "Itikaf",
+          "Id": "10"
+        },
+        {
+          "Name": "Hajj",
+          "Id": "11"
+        },
+        {
+          "Name": "Jihad",
+          "Id": "12"
+        },
+        {
+          "Name": "Knowledge",
+          "Id": "13"
+        },
+        {
+          "Name": "Praise and Gratitude to Allah",
+          "Id": "14"
+        },
+        {
+          "Name": "Supplicating Allah to Exalt the Mention of Allahs Messenger",
+          "Id": "15"
+        },
+        {
+          "Name": "Remembrance of Allah",
+          "Id": "16"
+        },
+        {
+          "Name": "Du'a (Supplications)",
+          "Id": "17"
+        },
+        {
+          "Name": "Prohibited actions",
+          "Id": "18"
+        },
+        {
+          "Name": "Miscellaneous ahadith of Significant Values",
+          "Id": "19"
+        },
+        {
+          "Name": "Forgiveness",
+          "Id": "20"
+        }
+       
+      ]
+    }
+  ]
+}
+
+
+  
+
+ 
+ 
+ 
+ 

@@ -1,0 +1,598 @@
+<resources>
+    <string name="app_name">MyIslam</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!--Dev Ashish-->
+
+    <!--FB-->
+    <string name="facebook_app_id">315271182508854</string>
+    <string name="fb_login_protocol_scheme">fb315271182508854</string>
+    <!--/FB-->
+
+    <!--Prayer-->
+    <string name="mosques">Mosques</string>
+    <string name="i_prayed">I prayed</string>
+    <string name="my_tracker">My tracker</string>
+    <string name="you_have_prayed">You have prayed​</string>
+    <string name="times">Times</string>
+    <string name="weekly">Weekly​</string>
+    <string name="monthly">Monthly​</string>
+    <string name="yearly">Yearly</string>
+    <string name="fard">Fard</string>
+    <string name="muakkadah">Muakkadah</string>
+
+    <!--Duas-->
+    <string name="my_custom_dua">My Custom Dua</string>
+    <string name="create_custom_dua">Create Custom Dua</string>
+    <string name="name_your_dua_here">Name Your Dua here</string>
+    <string name="update_dua">Update Dua</string>
+
+    <!--Pilgrimage-->
+    <string name="your_spiritual_journey_simplified">Your spiritual journey simplified</string>
+    <string name="select_your_journey">Select Your Journey</string>
+    <string name="hajj">Hajj</string>
+    <string name="umrah">Umrah</string>
+    <string name="your_hajj_journey">Your Hajj Journey</string>
+    <string name="your_umrah_journey">Your Umrah Journey</string>
+    <string name="your_hajj_umrah_journey">Your Hajj/Umrah Journey</string>
+    <string name="download_certificate">Download Certificate</string>
+    <string name="hajj_text">You have become a Hajji
+    on the 25thof January
+    2019, 14th Jumada 1440.
+    You may purchase your
+    certificate  <u>here</u>.</string>
+
+
+    <!--dashboard-->
+    <string name="faith">Faith</string>
+    <string name="prayer">Prayer</string>
+    <string name="charity">Charity</string>
+    <string name="fasting">Fasting</string>
+    <string name="pilgrimage">Pilgrimage</string>
+    <string name="community">Community</string>
+    <string name="collections">Collections</string>
+    <!--Menu-->
+    <string name="haj_pilgrimage">Haj Pilgrimage</string>
+    <string name="my_community">My Community</string>
+    <string name="settings">Settings</string>
+    <string name="names_of_allah">Names of Allah</string>
+    <string name="allah">Allah</string>
+    <string name="the_quran">The Quran</string>
+    <string name="duas_and_misbaha">Duas &amp; Misbaha</string>
+    <string name="hadith">Hadith</string>
+    <string name="hadiths">Hadiths</string>
+    <string name="taweed">Tawheed</string>
+    <string name="prophet_muhammad">Prophet Muhammad</string>
+    <string name="prophet_muhammad_pbuh">Prophet\nMuhammad\n(PbuH)</string>
+    <string name="menu_how_to_pray">How To Pray</string>
+    <string name="how_to_pray">How to Pray</string>
+    <string name="qibla_locator">Qibla Locator</string>
+    <string name="dua">Dua</string>
+    <string name="duas">Duas</string>
+    <string name="ramadan_calendar">Ramadan calendar</string>
+    <string name="zakat_calculator">Zakat Calculator</string>
+    <string name="donate">Donate</string>
+    <string name="voting">Voting</string>
+    <string name="start_preparation">Start Preparation</string>
+    <string name="pilgrimage_guide">Pilgrimage Guide</string>
+    <string name="find_pilgrim">Find Pilgrim</string>
+    <string name="pilgrimage_compass">Pilgrimage compass</string>
+    <string name="halal_restaurant">Restaurants</string>
+    <string name="feature_coming_soon">Feature Coming Soon</string>
+    <!--Faith-->
+    <string name="txt_faith">lā ʾilāha ʾillā llāh muḥammadun rasūlu llāh\n
+There is no god but God. Muhammad is
+the messenger of God.</string>
+
+    <string name="favourites">Favourites</string>
+    <string name="favourite">Favourite</string>
+
+    <string name="taweed_desc">
+        "The concept of “Tawheed” is the most fundamental concept of Islam as a religion and one that each and every muslim should subscribe to. Every Muslim should believe in the one true God alone and should not worship any deity other than Allah.
+
+For one to identify as a muslim, they should have a real understanding of Allah and should possess knowledge of what makes Allah unique and why Allah is the only one worthy of worship.
+
+Islam teaches that Allah(God) has among others, the following qualities that distinguish Allah from all other beings:
+
+Allah knows all things
+Allah has power over all things
+Allah is the Creator and Was never Created
+
+The concept of Tawheed and Allah’s uniqueness is well articulated in various parts of the Quran, but It is more straightforward and well summarised in the 112th
+chapter of the Quran known as “Surat – Ikhlas”. Given below is the translation of that chapter:
+
+“Say: He is Allah, the One and Only; Allah, the Eternal, Absolute; None is born of Allah, nor is He born; And there is none like Allah.”
+
+For one to identify as a muslim, he or she should believe in the oneness of God and should not ascribe any partners to Allah whatsoever. Whoever does not acknowledge Allah in these terms and does not describe Him as being One with no partner or associate does not believe in Tawheed and will be taken out of the fold of Islam."
+    </string>
+
+    <string name="prophet_mohammed_final_msg">The Final Messenger</string>
+    <string name="prophet_mohammed_desc">Muhammad (may Allah\'s blessings and peace be upon him), son of Abdullah, was born in Makkah around the year 570 CE. He became known by his people as Al-Amin (the trustworthy one).
+
+\nWhen Muhammad reached the age of forty, the angel Gabriel came to him bringing revelation. At first, Muhammad was instructed to invite only his immediate family, including his wife Khadijah, to Islam; eventually, it was revealed to him that he should deliver Allah\’s message to all humankind. For the rest of his life, he communicated this message to others, set an excellent example, and was a perfect role model for humanity. In the year 632, Prophet Muhammad died at the age of sixty-three.
+
+\nProphet Muhammad (may God\’s blessings and peace be upon him) is called “the Seal of the Prophets.” As the final prophet, he was sent to confirm all the truth that had been revealed before him, including the original Gospel of Jesus (which is different from today\’s Gospels).
+
+\nThe Glorious Qur\’an testifies that {Muhammad is the Messenger of Allah and last of the prophets.} (33:40)
+
+\nConfirming the link between Jesus and him, Prophet Muhammad promised, “If a man believes in Jesus and then believes in me, he will get a double reward.” He also stated, “I am the nearest of all the people to Jesus, the son of Mary, for there was no prophet between him and me.”
+
+\nThese Prophetic sayings show us how Muhammad honoured Jesus (may God\’s blessings and peace be upon them both). Later, I will discuss a prophecy that Jesus made in the Bible about the coming of Muhammad.
+
+\nPROPHET MUHAMMAD\’S DISTINGUISHED PERSONALITY
+
+\nMuhammad  ̶  from the time of his childhood and youth, through the years of his prophethood, and up until his death  ̶  has been recognized by fair-minded people throughout history as a special and noble personality with a unique character and morals. He was merciful, honest, sincere, kind, and humble. Every detail of not only his public utterances but also his private life has been authentically documented and faithfully preserved up to the present day.
+\nHe was a prophet, a messenger, a religious teacher, a social reformer, a moral guide, a leader, a statesman, a faithful friend, a wonderful companion, a devoted husband, and a loving father.
+\nIn his booklet Muhammad: The Prophet of Islam, Professor Ramakrishna Rao calls him the "perfect model for human life," observing:
+\nThe personality of Muhammad, it is most difficult to get into the whole truth of it. Only a glimpse of it I can catch. What a dramatic succession of picturesque scenes! There is Muhammad, the Prophet. There is Muhammad, the Warrior; Muhammad, the Businessman; Muhammad, the Statesman; Muhammad, the Orator; Muhammad, the Reformer; Muhammad, the Refuge of Orphans; Muhammad, the Protector of Slaves; Muhammad, the Emancipator of Women; Muhammad, the Judge; Muhammad, the Saint. All in all these magnificent roles, in all these departments of human activities, he is alike a hero.
+
+\nHistorically, during a short period of about twenty-three years of his prophethood, he changed the entire Arabian Peninsula…
+\nfrom paganism and idolatry to submission to One God…
+\nfrom tribal quarrels and wars to solidarity and cohesion…
+\nfrom drunkenness and debauchery to sobriety and piety…
+\nfrom lawlessness and anarchy to disciplined living…
+\nfrom utter moral bankruptcy to the highest standards of moral excellence.
+
+\nHuman history has never known such a complete transformation of a society before or since  ̶  and imagine… all these unbelievable wonders occurred in just over two decades.
+
+\nPROPHET MUHAMMAD IN THE WORLD\’S SCRIPTURES
+
+\nWhile it is outside the scope of this book to detail all the prophecies in other religious scriptures that foretell the coming of Prophet Muhammad, I should mention that Muslim scholars have documented them in the Christian, Jewish, Hindu, and Buddhist scriptures.
+
+\nIndeed, references to Muhammad in other scriptures is a very interesting topic that has been thoroughly discussed in many books, articles, and websites.
+
+\nIn his wonderful book Muhammad in the Bible, Professor Abdul-Ahad Dawud (formerly the Reverend David Benjamin) notes that the Bible foretells the advent of a prophet who is ‘like unto’ Moses:
+\nWe read the following words in the Book of Deuteronomy, chapter 18, verse 18: “I will raise them up a Prophet from among their brethren, like unto thee; and I will put my words in his mouth.” If these words do not apply to Muhammad, they still remain unfulfilled. Jesus himself never claimed to be the Prophet alluded to... Jesus, as is believed by his Church, will appear as a Judge and not as a law-giver; but the promised one has to come with a “fiery law” in “his right hand” [Deut. 33:2].
+
+\nMuslim scholars assert that this prophecy applies to none other than Muhammad because Moses and Muhammad are alike in many ways. Their names begin with the same letter; they are alike in their normal births, marriages, missions, and normal deaths; both were prophets, rulers, leaders, and statesmen; and both brought a “fiery law.” On the other hand, Jesus is unlike Moses in his birth, mission, and end; Jesus did not get married, nor did he rule his people or fight wars as Moses did.
+
+\nIt is worth mentioning that “a prophet from among their brethren” means a prophet from the brothers of the Israelites (namely the Ishmaelites, who were the Arabs), not from the Israelites themselves.
+
+\nIn the existing version of the New Testament, Jesus prophesies the coming of another Comforter, declaring, “and he shall give you another Comforter” (John 14:16). Jesus is also quoted as saying:
+
+\n“Nevertheless I tell you the truth; It is expedient for you that I go away: for if I go not away, the Comforter will not come unto you; but if I depart, I will send him unto you.
+\nAnd when he is come, he will reprove the world of sin, and of righteousness, and of judgment…
+\nI have yet many things to say unto you, but ye cannot bear them now.
+\nHowbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, that shall he speak: and he will show you things to come.
+\nHe shall glorify me...” (John 16:7-14)
+
+\nSo who is this other ‘Comforter’ who is to come after Jesus?
+
+\nMuslim scholars state that only Muhammad completely fulfilled Jesus’ prophecy, for many reasons. To mention some:
+
+\nJesus’ reference to “another Comforter” cannot mean the Holy Spirit. (Many Christians believe in a Trinity consisting of God the Father, God the Son, and God the Holy Spirit.) According to the Bible, the Holy Spirit was there before and during the mission of Jesus, while the Comforter was to come after.
+\nMuhammad came to warn people against sinning and to command them to be righteous. He was a ruler and a judge, with a “law” in “his right hand”.
+\nMuhammad guided people to the ultimate truth concerning the One True God, the purpose of this life, the Hereafter and eternal life, and many other truths.
+\nMuhammad informed us of things to come, through the many prophecies and miracles given to him by the One Who sent him, Allah.
+\nMuhammad was a prophet who did not “speak of himself; but whatsoever he shall hear, that shall he speak” (John 16:13). He was the instrument through whom God revealed His Word, the Glorious Qur\’an, which he recited in the name of Allah. The Bible prophesied that “he shall speak in My name…” (Deut. 18:19). In fact, the chapters of the Glorious Qur\’an are preceded by the phrase {In the Name of Allah}. The Glorious Qur\’an states:
+\n{In the name of Allah, the Most Compassionate, the Most Merciful. By the star when it descends, your companion [Muhammad] has not strayed, nor has he erred, nor does he speak from [his own] inclination. It is not but a revelation revealed.} (53: 1-4)
+\nAdditionally, Muhammad and the Glorious Qur\’an indeed exalted Jesus. In his honour, Muslims like to name their sons Eisa (the Arabic name for Jesus).
+\nFurthermore, when the Jews asked John the Baptist who he was, he denied being Christ or Elijah or “that Prophet”.
+\n“Who are you? And he (John) confessed, I am not the Christ. And then they asked him, What then? Are you Elijah? And he said, I am not. Are you that Prophet? And he answered, No”. (John 1:19-21)
+
+\nAgain, Muslim scholars argue that Muhammad is the one referred to in this Biblical text, “Are you that Prophet? And he answered, No.”
+
+\nSo who is “that Prophet”? It clearly does not apply to John the Baptist, nor to Jesus the Christ, as John himself testified.
+
+\nAt this point, a wise, honest, and sincere seeker of the truth should objectively ask:
+\nWho is that Prophet?
+\nWho is the true Prophet that came after John and Jesus, conveying their original message about the One True God alone?
+
+\nHe is Muhammad!
+
+
+
+
+
+
+
+
+
+
+\nEXCERPTS OF WHAT THEY SAID ABOUT PROPHET MUHAMMAD
+
+\nA great deal of literature has been written about Prophet Muhammad (may Allah\’s blessings and peace be upon him). Below are just a few statements from well-known figures.
+
+\nLamartine (the famous historian) asked:
+\nIf greatness of purpose, smallness of means and outstanding results are the three criteria of human genius, who could dare to compare any great man in modern history with Muhammad?
+\nLamartine concluded:
+\nAs regards all the standards by which Human Greatness may be measured, we may well ask, Is there any man greater than he? (Histoire de la Turquie, Paris 1854, Vol. II, pp. 276-277)
+
+\nIn his book The 100: A Ranking of the Most Influential Persons in History, Michael H. Hart stated:
+\nMy choice of Muhammad to lead the list of the world\’s most influential persons may surprise some readers and may be questioned by others, but he was the only man in history who was supremely successful on both the religious and secular levels.
+
+\nHart concluded that:
+\nIt is this unparalleled combination of secular and religious influence which I feel entitles Muhammad to be considered the most influential single figure in human history.
+
+\nIn his book The Genuine Islam, Sir George Bernard Shaw wrote:
+\nI believe that if a man like him were to assume the leadership of the modern world he would succeed in solving its problems in a way that would bring to this world much needed peace and happiness.
+\nShaw added:
+\nHe was by far the most remarkable man that ever set foot on this earth. He preached a religion, founded a state, built a nation, laid down a moral code, initiated numerous social and political reforms, established a powerful and dynamic society to practice and represent his teachings and completely revolutionized the worlds of human thought and behavior for all times to come.
+
+\nMahatma Gandhi explained:
+\nI became more than convinced that it was not the sword that won a place for Islam in those days in the scheme of life. It was the rigid simplicity, the utter self-effacement of the Prophet, the scrupulous regard for his pledges, his intense devotion to his friends and followers, his intrepidity, his fearlessness, his absolute trust in God and in his own mission. (Young India Newspaper)
+
+\nWolfgang Goethe (the famous European poet) believed that:
+\nHe is a prophet and not a poet and therefore his Koran is to be seen as a divine law and not as a book of a human being, made for education or entertainment.
+
+\nThe Encyclopaedia Britannica (Vol. 12) cited:
+\nA mass of detail in the early sources show that he was an honest and upright man who had gained the respect and loyalty of others who were like-wise honest and upright men… Mohammad is the most successful of all Prophets and religious personalities.
+
+\nThomas Carlyle stated in Heroes and Hero Worship:
+\nHow one man single-handedly could weld warring tribes and wandering Bedouins into a most powerful and civilized nation in less than two decades.…The lies (Western slander) which well-meaning zeal has heaped round this man (Muhammad) are disgraceful to ourselves only.
+
+\nJohn Esposito (a university professor of religion and international affairs, Director of the Center for International Studies at the College of the Holy Cross, and Founding Director of PABT Center for Muslim-Christian Understanding, Georgetown University, USA) pointed out in his book Islam: The Straight Path:
+\nMuhammad was among those great religious figures, prophets and founders of religions, whose remarkable character and personality inspired uncommon confidence and commitment. His phenomenal success in attracting followers and creating a community-state that dominated Arabia could be attributed not only to the fact that he was a shrewd military strategist but also to the fact that he was an unusual man… Muhammad’s followers found him righteous, trustworthy, pious, honest and compassionate.
+
+\nHe clarified that “Muhammad was not the founder of Islam; he did not start a new religion.”
+
+\nProfessor Esposito stressed this fact:
+\nIslam brought a reformation; it was the call once again to total submission (Islam) to Allah and the implementation of His will as revealed in its complete form one final time to Muhammad, the last, or ‘seal’ of the prophets. Thus, for Muhammad, Islam was not a new faith but the restoration of the true faith...
+
+\nBEAUTIFUL PROPHETIC SAYINGS
+
+\nBelow are some examples of the Prophet’s sayings, to give you a taste of their beauty and sweetness:
+\n“A good word is charity.”
+\n“A sincere smile is charity.”
+\n“The best of you are the best in character.”
+\n“Removing a harmful thing from the path (road) is charity.”
+\n“The best [aspect] of faith is patience and tolerance.”
+\nWhen asked which aspect of Islam was best, he replied, “Feed and greet both those you know and those you do not know.”
+\nMoreover, the Prophet Muhammad (may Allah’s blessings and peace be upon him) said:
+\n“The Compassionate One [God] has mercy on those who are merciful. If you show mercy to those who are on the earth, He Who is in Heaven will show mercy to you.”
+\n“None of you truly believes until he loves for his brother what he loves for himself.”
+\n“He who eats his fill while his neighbor goes to bed without food is not a believer.”
+\n“The powerful is not he who knocks the other down; indeed the powerful is he who controls himself in a fit of anger.”
+\n“God does not judge you according to your bodies and appearances, but He scans your hearts and looks into your deeds.”
+\n“The best of you is he who is best to his family, and I am the best among you to my family.”
+\n“The best of you are those who are best to their women.”
+\n“The best of Islam is to behave with gentleness and tolerance.”
+\n“The best people are those most beneficial to [other] people.”
+
+\nThese are just some examples of the Prophet\’s wise, wonderful, and golden sayings.
+
+\nProphet Muhammad also practiced what he taught; his dealings and behaviour towards others reflected his special and unique personality in his morals, mercy, honesty, sincerity, kindness, truthfulness, humbleness, generosity, forgiveness, patience, tolerance, and many other virtues.
+
+\nThe stories and evidence of the Prophet\’s magnificent personal attributes are too numerous to mention here, so let us take just one example.
+\nAfter his Makkan opponents rejected him and his message of Islam...
+\nAfter they persecuted and mistreated him, trying to kill him many times...
+\nAfter they tortured and killed many of his followers and loved ones...
+\nAfter they fought him and his companions, driving them out of their homes and seizing their properties and land…
+
+\nHow did Muhammad treat these enemies when he entered Makkah and liberated it from idolatry and paganism?
+
+\nIn the wake of this momentous victory for Muhammad and the Muslims, at the climax of their joy, rapture, and happiness at coming back home to the sacred city of Makkah… Prophet Muhammad gathered together the Makkans, who were afraid that he would harm or even kill them in revenge for their past abuse and killing of Muslims.
+
+\nMuhammad asked them, “What do you think I am going to do with you?”
+\nThey answered, “You are a generous brother and the son of an honourable brother of ours.”
+\nThen the kind, tolerant, generous, and merciful Prophet forgave them. He announced, “No harm will come to you. You may go. You are free.”
+\nHave you ever seen such a scene? Have you ever heard such a story? Can you sense the Prophet\'s mercy?
+
+\nDescribing this unprecedented historic event, Professor John Esposito stated:
+\nEschewing vengeance and the plunder of conquest, the Prophet instead accepted a settlement, granting amnesty rather than wielding the sword toward his former enemies. For their part, the Meccans converted to Islam, accepted Muhammad\’s leadership, and were incorporated within the umma (Muslim community).
+
+\nIn contrast, are you aware of the atrocities committed by various ‘superpower’ nations throughout human history, when they unjustly attacked, invaded, and tortured others?
+
+\nRemarkably, the more we discover about Muhammad\’s life, the more we come to realize his excellent conduct and character, and that he was indeed {sent as a mercy to the worlds.} (Qur\’an 21:107)
+
+\nProphet Muhammad said, “I have been sent to perfect the noble traits of character.”
+
+\nConfirming this fact, Allah tells him in the Glorious Qur\’an, {Indeed, you are of a great moral character.} (68:4)
+
+
+\nAre you still curious?
+
+\nIf you are curious and interested in discovering more information and details about Islam, please visit our website:
+\nwww.discoveritsbeauty.com
+\nFeel free to e-mail your questions or feedback to:
+\ninfo@discoveritsbeauty.com
+
+
+\nThe Series of Discover Its Beauty in 7 Minutes:
+\nJust the Tip of the Iceberg
+\nThe Religion of Adam and Eve
+\nThe ABCs of Islam
+\nAnswering Humanity\’s Critical Questions
+\nHis Beautiful Names
+\nThe Last Revelation
+\nThe Final Messenger
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\nUseful Islamic Websites:
+
+\nhttp://www.allahsquran.com
+
+\nhttp://www.quranexplorer.com
+
+\nhttp://www.islamhouse.com
+
+\nhttp://www.edialogue.org
+
+\nhttp://www.islamreligion.com
+
+
+\nhttp://www.newmuslimguide.com
+
+\nhttp://www.guidetoislam.com
+
+\nhttp://www.rasoulallah.net
+
+    </string>
+
+    <string name="the_hadith">The Hadith</string>
+    <string name="txt_noa_small_desc">Throughout the Quran, Allah
+is described with a number of
+names which .. read more</string>
+    <string name="txt_noa_full_desc">Throughout the Quran, Allah is described with a number of names which total up to 99 in number. The names of Allah help you understand the concept of Allah’s uniques  the different qualities that Allah possesses.When we supplicate to Allah, we are encouraged to call Him by His beautiful names or by the name that is related to our request or need. For example, if our request concerns our provision in life, we might call out to Al-Razzaq, The Provider.  These names do not indicate that Allah is more than one being; they are names that describe the different attributes that belong to the One True God (Allah).We human beings can never comprehend the greatness of Allah, but the more we know about Him and what pleases Him, the better we can love and worship Him. Learning about Allah – through studying and understanding His names and attributes – brings us peace of mind in this life and the next because we acknowledge that everything is in His hands and happens according to His Will.It is not appropriate for a human being to use a name that belongs to Allah alone. Muslims often have names that begin with Abdul (meaning “servant of”) followed by one of the names of Allah. Thus, Abdullah means “servant of Allah”, “Abdul-Rahman” means “servant of Al-Rahman (The Compassionate)”, and so on.Knowing more about the names of our true God (Allah), and believing truly in Him and His attributes, leads us to bear in mind, whenever we act or interact with others, that Allah is: (list of names)</string>
+
+    Fajr today?​
+    <string name="notification_msg">Have you prayed %1$s %2$s?</string>
+    <string name="today">today</string>
+    <string name="yesterday">yesterday</string>
+
+    <!--ReqForPrayer-->
+    <string name="request_for_prayer">Request for Prayer</string>
+    <string name="all">All</string>
+    <string name="my_request">My Request</string>
+    <string name="make_a_dua">Make a Dua</string>
+
+    <!--Community-->
+    <string name="mosque">Mosques</string>
+    <string name="near_mosque">Near Mosque</string>
+    <string name="restaurant">Restaurants</string>
+    <string name="prayer_request">Prayer Request</string>
+    <string name="qurbani">Qurbani</string>
+    <string name="events">Events</string>
+
+    <!--Calendar-->
+    <string name="islamic_calendar">Islamic Calendar</string>
+    <string name="islamic_holidays">Islamic Holidays</string>
+
+    <!--PopUp-->
+    <string name="txt_read_more">Read More</string>
+    <string name="txt_i_accept">I Accept</string>
+
+    <string name="terms_condition_title">Terms &amp; Condition</string>
+    <string name="terms_condition_desc">By downloading, browsing, accessing or using this Sample Store mobile application (“Mobile Application”), you agree to be bound by these Terms and Conditions of Use. We reserve the right to amend these terms and conditions at any time. If you disagree with any of these Terms and Conditions of Use, you must immediately discontinue your access to the Mobile Application and your use of the services offered on the Mobile Application. Continued use of the Mobile Application will constitute acceptance of these Terms and Conditions of Use, as may be amended from time to time.</string>
+
+    <string name="privacy_policy_title">Privacy Policy Notice</string>
+    <string name="privacy_policy_desc">By downloading, browsing, accessing or using this Sample Store mobile application (“Mobile Application”), you agree to be bound by these Terms and Conditions of Use. We reserve the right to amend these terms and conditions at any time. If you disagree with any of these Terms and Conditions of Use, you must immediately discontinue your access to the Mobile Application and your use of the services offered on the Mobile Application. Continued use of the Mobile Application will constitute acceptance of these Terms and Conditions of Use, as may be amended from time to time.</string>
+
+    <!--Login-->
+    <string name="my_islam">My Islam</string>
+    <string name="one_ummah">One Ummah</string>
+    <string name="edt_hint_email">Email</string>
+    <string name="edt_hint_password">Password</string>
+    <string name="txt_forgot_password">Forgot Password?</string>
+    <string name="txt_login">Log in</string>
+    <string name="txt_or">OR</string>
+    <string name="txt_facebook">Facebook</string>
+    <string name="txt_google">Google</string>
+    <string name="txt_dont_have_account">Don\'t have an account?</string>
+    <string name="txt_signup">Signup</string>
+    <string name="txt_agree_terms">By using My Islam you Agree to our Terms</string>
+    <string name="txt_terms">Terms</string>
+    <string name="terms"><u>Terms</u></string>
+    <string name="txt_submit">Submit</string>
+    <string name="txt_sign_up_with_email">Sign up with Email</string>
+    <!--change pwd-->
+
+    <string name="txt_change_pwd">Change Password</string>
+    <string name="txt_current_pwd">Current password</string>
+    <string name="txt_new_pwd">New password</string>
+    <string name="txt_confirm_pwd">Confirm password</string>
+    <string name="save">Save</string>
+
+    <!--Event List-->
+    <string name="txt_event_date">Date</string>
+    <string name="txt_event_start_time">Start Time</string>
+    <string name="txt_event_end_time">End Time</string>
+
+    <!--Create Event-->
+    <string name="tab_list">List</string>
+    <string name="tab_map">Map</string>
+    <string name="tab_my_event">My Event</string>
+    <string name="txt_create_event">Create Event</string>
+    <string name="edt_hint_event_name">Event Name</string>
+    <string name="edt_hint_event_type">Event Type</string>
+    <string name="edt_hint_address">Address</string>
+    <string name="edt_hint_country">Country</string>
+    <string name="edt_hint_city">City</string>
+    <string name="edt_hint_mobile_number">Mobile Number</string>
+    <string name="edt_hint_description">Description</string>
+    <string name="edt_hint_from">From</string>
+    <string name="edt_hint_to">To</string>
+    <string name="btn_create_event">Create Event</string>
+
+    <!--Setting-->
+    <string name="prayer_time_and_adhan">Prayer Time and Adhan</string>
+    <string name="quran_setting">Quran setting</string>
+    <string name="acknowledgement">Acknowledgement</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="contact_us">Contact us</string>
+
+    <!--Hajj Journey Recetations-->
+    <string name="txt_click_for_all_complete">Click here for all completed steps</string>
+    <string name="txt_click_for_all_uncomplete">Click here for all pending steps</string>
+
+    <!--Request_for_dua-->
+    <string name="txt_create_prayer_req">Create Prayer Request</string>
+    <string name="txt_enter_txt_here">Enter text here</string>
+
+    <!--subscription-->
+
+    <!--Registration-->
+    <string name="edt_hint_fname">First Name</string>
+    <string name="edt_hint_lname">Last Name</string>
+    <string name="txt_already_account">Already have an account?</string>
+    <string name="txt_sign_up">Sign up</string>
+    <string name="txt_signin">Sign in</string>
+
+    <!--welcome-->
+    <!--<string name="txt_welcome">The spelling mistakes in the text had been highlighted in green. The text is finished, but the pictures will have to be pasted in later. You need to demonstrate to the examiners that you have more than a literal understanding of the text. The students are reading \'Lord of the Flies\' as one of their set texts this year. At this point in the speech, the minister departed from his prepared text</string>-->
+    <string name="txt_welcome">My Islam
+        \n- your companion for life, not just Ramadan!
+        \n- All components of Islam in one place
+        \n- Interactive and so easy to use
+        \n- No advertisements
+        \n- No pop ups
+        \n- No clutter
+        \n- Safe for kids
+        \n- We donate a part of our profit to charity - and you decide what happens with the money.
+        \n\nEnjoy the app and please leave us feedback - we\'d love to hear from you.
+        \n\nJazakallah</string>
+
+    <!--Signupp-->
+    <string name="txt_sign_in">Sign-In</string>
+    <string name="txt_have_an_account">have an account?</string>
+
+    <!--Your Hajj Journey _inprocess-->
+    <string name="task">Task</string>
+    <string name="completed">Completed</string>
+    <string name="task_completed">Task Completed</string>
+    <string name="undo">Undo</string>
+
+    <!--Voting-->
+    <string name="btn_vote_for_this_cause">Vote for this cause</string>
+
+    <!--My Account-->
+    <string name="my_account">My Account</string>
+    <string name="uprade_premium">UpGrade To Premium</string>
+    <string name="logout">Log Out</string>
+    <string name="next">Next</string>
+    <string name="welcome_to_myislam">Welcome to My Islam</string>
+
+    <!--Alarm Config-->
+    <string name="choose_notification">Choose Notification</string>
+    <string name="prayer_tracker">Prayer Tracker</string>
+    <string name="alarm">Alarm</string>
+
+    <string name="fajr">Fajr</string>
+    <string name="dhudr">Dhudr</string>
+    <string name="asar">Asar</string>
+    <string name="magrib">Magrib</string>
+    <string name="isha">Isha</string>
+
+    <string name="app_language">App Language</string>
+    <string name="language_of_the_app">Language of the App</string>
+    <string name="quran_translation">Quran Translation</string>
+    <string name="change_noti_setting">You can also change the notification\nin the Setting Menu</string>
+    <string name="txt_setting_menu">Setting Menu</string>
+
+    <!---->
+
+    <!--Alert Dynamic-->
+    <string name="alert_qurbani_not_found">sorry no halal slaughter house found nearby</string>
+    <string name="duas_category_get_all">All Duas</string>
+    <string name="popup_total_prayed">You have prayed %1$s times this week. peace be upon you.</string>
+
+    <!--VALID MSG-->
+    <string name="valid_id">enter user name</string>
+    <string name="valid_fname">Please enter your first name</string>
+    <string name="valid_lname">Please enter your last name</string>
+    <string name="valid_email">Please enter your email id</string>
+    <string name="valid_email_exp">Please Enter Valid Email</string>
+    <string name="valid_pass">Please enter your password</string>
+    <string name="valid_pass_exp">password length must be 6 character</string>
+    <string name="valid_conf_pass">Confirmed password not matched please try again</string>
+
+    <string name="valid_dua_title">enter dua title</string>
+    <string name="valid_dua_desc">enter dua text</string>
+
+    <!--ARRAY-->
+    <string-array name="event_category">
+        <item>Education Event</item>
+        <item>Funerel</item>
+        <item>Social Gathering</item>
+        <item>Kids Friendly</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Arabic</item>
+        <item>Turkey</item>
+        <item>Malay</item>
+    </string-array>
+    <string-array name="languages_ext">
+        <item>en</item>
+        <item>ar</item>
+        <item>tr</item>
+        <item>ma</item>
+    </string-array>
+
+    <!--Compass-->
+    <string name="sotw_north">N</string>
+    <string name="sotw_east">E</string>
+    <string name="sotw_south">S</string>
+    <string name="sotw_west">W</string>
+    <string name="sotw_northeast">NE</string>
+    <string name="sotw_northwest">NW</string>
+    <string name="sotw_southeast">SE</string>
+    <string name="sotw_southwest">SW</string>
+
+
+    <!--The Quran-->
+    <string name="sura">Sura</string>
+    <string name="juz">Juz</string>
+    <string name="no_pop_ups_no_clutter"><![CDATA[No pop ups & No clutter]]></string>
+    <string name="interactive_easy_to_use"><![CDATA[Interactive & easy to use]]></string>
+    <string name="all_components_of_islam_in_one_place">All components of islam in one place</string>
+    <string name="my_islam_your_complanion_for_life_not_just_ramdan">My islam -your companion for life ,not just Ramdan!</string>
+    <string name="we_donate_a_part_of_our_profits_to_charity_you_decide_what_happens_with_the_money"><![CDATA[We donate a part of our profits to charity & you decide what happens with the money.]]></string>
+    <string name="safe_for_kids">Safe for kids</string>
+    <string name="no_advertisements">No advertisements</string>
+    <string name="enjoy_the_app_please_leave_us_feedback_we_d_love_to_hear_from_you"><![CDATA[Enjoy the app & please leave us feedback we\'d love to hear from you.]]></string>
+    <string name="jazakallah">Jazakallah</string>
+    <string name="please_wait">Please Wait</string>
+
+
+    <!--Fasting-->
+    <string name="fast_opens">Fast Opens :</string>
+    <string name="fast_closes">Fast Closes :</string>
+    <string name="ramdan_calender">Ramdan Calender</string>
+    <string name="first_asr">First Ashar- Days of Mercy</string>
+    <string name="asr_quote">O! My lord forgive and have mercy and you are the best of merciful</string>
+    <string name="asr_quotes">Give charity- control your temper - Help people</string>
+    <string name="second_asr">Second Ashar - Days of forgiveness</string>
+    <string name="third_asr">Third Ashar - Days of Seeking Refuge</string>
+    <string name="asr_quote2">I seek forgiveness from Allah, my lord, from every sin I committed\"</string>
+    <string name="asr_quote3">O! Allah! Save me from the Hell - Fire.\"</string>
+    <string name="asr_quotes2">Do Astaghfaar - Be kind - Do touba</string>
+    <string name="asr_quotes3">Zikar - Recite Quran - do Itikaf</string>
+    <string name="day">Day</string>
+    <string name="of_ramdan">of Ramdan</string>
+
+    <!--Charity-->
+    <string name="your_personal_donations">Your Personal donations</string>
+    <string name="one_ummah_donations">One Ummah donations</string>
+    <string name="zakat_calculatorr">Zakat
+Calculator</string>
+    <string name="quarbani">Qurbani</string>
+    <string name="Vote">Vote</string>
+    <string name="my_islam_charity">My Islam Charity</string>
+
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBlack"
+    android:paddingTop="@dimen/base_activity_top_space">
+
+    <ImageView
+        android:layout_above="@+id/rlt_bottom"
+        android:src="@drawable/img_qibla"
+        android:scaleType="fitXY"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <ImageView
+        android:id="@+id/arrow_qibla"
+        android:layout_above="@+id/rlt_bottom"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/ic_indicator_qibla"
+        android:layout_width="50dp"
+        android:layout_height="180dp" />
+
+
+    <RelativeLayout
+        android:id="@+id/rlt_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="10dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/arrow_back"
+            style="@style/img_back_arrow_bottom"
+            android:onClick="onClick"
+            android:src="@drawable/img_back_map" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

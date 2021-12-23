@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="@dimen/view_space_10"
+    android:paddingBottom="@dimen/view_space_10"
+    android:paddingLeft="@dimen/view_space_30"
+    android:paddingEnd="@dimen/view_space_30"
+    android:background="@color/colorBlack">
+
+    <LinearLayout
+        android:layout_marginBottom="@dimen/view_space_20"
+        android:layout_alignParentTop="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btn_next"
+        android:layout_centerVertical="true"
+        android:paddingTop="@dimen/view_space_10"
+        android:orientation="vertical">
+
+        <include
+            android:id="@+id/img_logo"
+            layout="@layout/view_header_logo"></include>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/view_space_20"
+            android:gravity="center"
+            android:text="@string/welcome_to_myislam"
+            android:textColor="@color/colorYellow"
+            android:textSize="@dimen/txt_size_20" />
+
+        <ScrollView
+            android:layout_marginTop="@dimen/view_space_20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true">
+
+            <TextView
+
+                android:layout_marginStart="@dimen/view_space_10"
+
+                android:layout_marginEnd="@dimen/view_space_10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/txt_welcome"
+                android:textColor="@color/colorWhite"
+                android:textSize="@dimen/txt_size_14" />
+
+        </ScrollView>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_next"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dashboard_btn_height"
+        android:layout_alignParentBottom="true"
+        android:background="@mipmap/bg_btn_img"
+        android:gravity="center"
+        android:text="@string/next"
+        android:textAllCaps="false"
+        android:textColor="@color/colorBlack"
+        android:textSize="@dimen/txt_size_16" />
+</RelativeLayout>

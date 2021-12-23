@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBlack">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <include
+                    android:id="@+id/img_logo"
+                    layout="@layout/view_header_logo" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/view_space_5"
+                    android:gravity="center"
+                    android:text="@string/welcome_to_myislam"
+                    android:textColor="@color/colorYellow"
+                    android:textSize="@dimen/txt_size_20" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/view_space_15"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/view_space_5"
+                    android:layout_marginEnd="@dimen/view_space_5"
+                    android:layout_marginBottom="@dimen/view_space_5"
+                    android:gravity="center"
+                    android:lineSpacingExtra="5dp"
+                    android:text="@string/my_islam_your_complanion_for_life_not_just_ramdan"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="@dimen/calendar_content_text_size" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/view_space_20"
+                    android:layout_marginTop="@dimen/view_space_5"
+                    android:layout_marginEnd="@dimen/view_space_20"
+                    android:drawableStart="@drawable/circle"
+                    android:drawablePadding="@dimen/welcome_screen_bullet_drawable_padding"
+                    android:gravity="start|center"
+                    android:text="@string/all_components_of_islam_in_one_place"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="@dimen/calendar_content_text_size" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/view_space_20"
+                    android:layout_marginTop="@dimen/view_space_5"
+                    android:layout_marginEnd="@dimen/view_space_20"
+                    android:drawableStart="@drawable/circle"
+                    android:drawablePadding="@dimen/welcome_screen_bullet_drawable_padding"
+                    android:gravity="start|center"
+                    android:text="@string/interactive_easy_to_use"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="@dimen/calendar_content_text_size" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/view_space_20"
+                    android:layout_marginTop="@dimen/view_space_5"
+                    android:layout_marginEnd="@dimen/view_space_20"
+                    android:drawableStart="@drawable/circle"
+                    android:drawablePadding="@dimen/welcome_screen_bullet_drawable_padding"
+                    android:gravity="start|center"
+                    android:text="@string/no_pop_ups_no_clutter"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="@dimen/calendar_content_text_size" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/view_space_20"
+                    android:layout_marginTop="@dimen/view_space_5"
+                    android:layout_marginEnd="@dimen/view_space_20"
+                    android:drawableStart="@drawable/circle"
+                    android:drawablePadding="@dimen/welcome_screen_bullet_drawable_padding"
+                    android:gravity="start|center"
+                    android:text="@string/no_advertisements"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="@dimen/calendar_content_text_size" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/view_space_20"
+                    android:layout_marginTop="@dimen/view_space_5"
+                    android:layout_marginEnd="@dimen/view_space_20"
+                    android:drawableStart="@drawable/circle"
+                    android:drawablePadding="@dimen/welcome_screen_bullet_drawable_padding"
+                    android:gravity="start|center"
+                    android:text="@string/safe_for_kids"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="@dimen/calendar_content_text_size" />
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/view_space_20"
+                    android:layout_marginTop="@dimen/view_space_5"
+                    android:layout_marginEnd="@dimen/view_space_20"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingStart="0dp"
+                        android:paddingTop="4dp"
+                        android:paddingEnd="@dimen/welcome_screen_bullet_drawable_padding"
+                        android:paddingBottom="2dp"
+                        android:src="@drawable/circle" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="start|center"
+                        android:text="@string/we_donate_a_part_of_our_profits_to_charity_you_decide_what_happens_with_the_money"
+                        android:textColor="@color/colorWhite"
+                        android:textSize="@dimen/calendar_content_text_size" />
+
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/layout_bottom"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/view_space_15"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv8"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/view_space_10"
+                    android:layout_marginTop="@dimen/view_space_5"
+                    android:layout_marginEnd="@dimen/view_space_10"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/enjoy_the_app_please_leave_us_feedback_we_d_love_to_hear_from_you"
+                    android:textColor="@color/colorYellow"
+                    android:textSize="@dimen/calendar_content_text_size" />
+
+
+                <TextView
+                    android:id="@+id/tv9"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/view_space_10"
+                    android:layout_marginTop="@dimen/view_space_5"
+                    android:layout_marginEnd="@dimen/view_space_10"
+                    android:layout_marginBottom="@dimen/view_space_5"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/jazakallah"
+                    android:textColor="@color/colorYellow"
+                    android:textSize="@dimen/calendar_content_text_size" />
+
+
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+
+                <Button
+                    android:id="@+id/btn_next"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginStart="@dimen/view_space_20"
+                    android:layout_marginTop="@dimen/view_space_5"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginBottom="@dimen/view_space_10"
+                    android:background="@mipmap/bg_btn_img"
+                    android:gravity="center"
+                    android:text="@string/next"
+                    android:textAllCaps="false"
+                    android:textColor="@color/colorBlack"
+                    android:textSize="@dimen/txt_size_16" />
+            </RelativeLayout>
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+</RelativeLayout>

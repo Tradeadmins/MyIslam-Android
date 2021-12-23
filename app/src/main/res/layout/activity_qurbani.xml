@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBlack"
+    android:paddingTop="@dimen/base_activity_top_space">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/img_qurbani" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:background="@drawable/brown_gradient"
+        android:layout_height="90dp">
+
+    </LinearLayout>
+    <TextView
+        android:id="@+id/txt_title"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:paddingTop="10dp"
+        android:paddingBottom="30dp"
+        android:text="@string/qurbani"
+        android:textColor="@color/colorYellow"
+        android:textSize="20sp" />
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/l1"
+        android:layout_below="@+id/txt_title"
+        android:layout_marginStart="10sp"
+        android:layout_marginEnd="10sp"
+        android:layout_marginBottom="10sp" />
+
+
+    <LinearLayout
+        android:id="@+id/l1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/rlt_bottom"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/txt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/bg_btn_yellow"
+            android:gravity="center"
+
+            android:padding="15dp"
+            android:text="Donate to My Islam Charity"
+            android:textColor="@color/colorBlack"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/rlt_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="@dimen/disp_view_margin"
+        android:orientation="horizontal">
+
+
+        <ImageView
+            android:id="@+id/arrow_back"
+            style="@style/img_back_arrow_bottom"
+            android:onClick="onClick"
+            android:src="@drawable/img_back_map" />
+    </RelativeLayout>
+
+
+</RelativeLayout>

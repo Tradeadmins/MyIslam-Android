@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBlack"
+    android:paddingTop="@dimen/base_activity_top_space">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/lnr_my_account"
+            android:padding="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:padding="5dp"
+                android:tint="@color/colorYellow"
+                android:src="@drawable/ic_user"
+                android:layout_width="30dp"
+                android:layout_height="30dp" />
+
+            <TextView
+
+
+                android:textAlignment="viewStart"
+
+                android:layout_marginStart="8dp"
+                android:textSize="20sp"
+                android:textColor="@color/colorYellow"
+                android:text="@string/my_account"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+        <View style="@style/divider_setting"></View>
+
+        <LinearLayout
+            android:id="@+id/lnr_prayer_time"
+            android:padding="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:padding="5dp"
+                android:tint="@color/colorYellow"
+                android:src="@drawable/ic_clock"
+                android:layout_width="30dp"
+                android:layout_height="30dp" />
+
+            <TextView
+
+
+                android:textAlignment="viewStart"
+
+                android:layout_marginStart="8dp"
+                android:textSize="20sp"
+                android:textColor="@color/colorYellow"
+                android:text="@string/prayer_time_and_adhan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+        <View style="@style/divider_setting"></View>
+
+        <LinearLayout
+            android:padding="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:padding="5dp"
+                android:tint="@color/colorYellow"
+                android:src="@drawable/ic_settings_work_tool"
+                android:layout_width="30dp"
+                android:layout_height="30dp" />
+
+            <TextView
+
+
+                android:textAlignment="viewStart"
+                android:layout_marginStart="8dp"
+                android:textSize="20sp"
+                android:textColor="@color/colorYellow"
+                android:text="@string/quran_setting"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+        <View style="@style/divider_setting"></View>
+
+        <LinearLayout
+            android:id="@+id/lnr_app_language"
+            android:padding="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:padding="5dp"
+                android:tint="@color/colorYellow"
+                android:src="@drawable/ic_language"
+                android:layout_width="30dp"
+                android:layout_height="30dp" />
+
+            <TextView
+
+
+                android:textAlignment="viewStart"
+
+                android:layout_marginStart="8dp"
+                android:textSize="20sp"
+                android:textColor="@color/colorYellow"
+                android:text="@string/app_language"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+        <View style="@style/divider_setting"></View>
+
+        <LinearLayout
+            android:padding="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:padding="5dp"
+                android:tint="@color/colorYellow"
+                android:src="@drawable/ic_writing"
+                android:layout_width="30dp"
+                android:layout_height="30dp" />
+
+            <TextView
+
+
+                android:textAlignment="viewStart"
+
+                android:layout_marginStart="8dp"
+                android:textSize="20sp"
+                android:textColor="@color/colorYellow"
+                android:text="@string/acknowledgement"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+        <View style="@style/divider_setting"></View>
+
+        <LinearLayout
+            android:padding="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:padding="5dp"
+                android:tint="@color/colorYellow"
+                android:src="@drawable/ic_privacy"
+                android:layout_width="30dp"
+                android:layout_height="30dp" />
+
+            <TextView
+
+
+                android:textAlignment="viewStart"
+
+                android:layout_marginStart="8dp"
+                android:textSize="20sp"
+                android:textColor="@color/colorYellow"
+                android:text="@string/privacy_policy"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+        <View style="@style/divider_setting"></View>
+
+        <LinearLayout
+            android:padding="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:padding="5dp"
+                android:tint="@color/colorYellow"
+                android:src="@drawable/ic_phone_book"
+                android:layout_width="30dp"
+                android:layout_height="30dp" />
+
+            <TextView
+
+
+                android:textAlignment="viewStart"
+
+                android:layout_marginStart="8dp"
+                android:textSize="20sp"
+                android:textColor="@color/colorYellow"
+                android:text="@string/contact_us"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+        <View style="@style/divider_setting"></View>
+    </LinearLayout>
+</RelativeLayout>

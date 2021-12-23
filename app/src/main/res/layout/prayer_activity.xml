@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBlack"
+    android:paddingTop="@dimen/base_activity_top_space">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/rlt_bottom">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:id="@+id/rlt_day_image"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/prayer_banner_height">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/img_prayer_day" />
+
+                <LinearLayout
+                    android:id="@+id/lnr_slot"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/img_prayer_slot">
+
+                    <TextView
+                        android:id="@+id/txt_slot_prayer"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="8dp"
+                        android:gravity="center"
+                        android:text="@string/fajr"
+                        android:textColor="@color/colorWhite"
+                        android:textSize="14sp"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/pray"
+                android:layout_below="@+id/rlt_day_image"
+                android:layout_margin="8dp"
+                android:gravity="center_vertical">
+
+                <LinearLayout
+                    android:id="@+id/lnr_prayed"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClick">
+
+                    <TextView
+                        android:id="@+id/txt_is_prayed"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:text="@string/i_prayed"
+                        android:textColor="@color/colorWhite" />
+
+                    <CheckBox
+                        android:id="@+id/tik_prayed"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="10dp"
+                        android:button="@drawable/bg_switch"
+                        android:checked="false"
+                        android:clickable="true" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/lnr_tracker"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:gravity="center"
+                    android:onClick="onClick">
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:padding="3dp"
+                        android:src="@drawable/ic_round_yellow" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginStart="6dp"
+                        android:text="@string/my_tracker"
+                        android:textColor="@color/colorWhite" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_below="@+id/pray"
+                android:id="@+id/kk"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:id="@+id/lnr_prayer_table"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            style="@style/txt_prayer_box"
+                            android:text="@string/prayer" />
+
+                        <TextView
+                            style="@style/txt_prayer_box"
+                            android:text="@string/prayer" />
+
+                    </LinearLayout>
+                </LinearLayout>
+
+            </HorizontalScrollView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:layout_below="@+id/kk"
+                android:gravity="center"
+                android:id="@+id/one"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/fard"
+                    android:textColor="#802906"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="15dp"
+                    android:text="@string/muakkadah"
+                    android:textColor="#2E75B6"
+                    android:textSize="16sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/bottom"
+                android:layout_below="@+id/one"
+                android:layout_alignParentBottom="true"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/txt_qibla_locator"
+                        android:layout_width="match_parent"
+                        android:layout_height="100dp"
+                        android:layout_marginEnd="4dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/bg_edt_yellow"
+                        android:gravity="center"
+                        android:onClick="onClick"
+                        android:padding="12dp"
+                        android:text="@string/qibla_locator"
+                        android:textSize="16sp" />
+
+                    <TextView
+                        android:id="@+id/txt_how_to_pray"
+                        android:layout_width="match_parent"
+                        android:layout_height="100dp"
+                        android:layout_marginStart="4dp"
+                        android:layout_marginEnd="4dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/bg_edt_yellow"
+                        android:gravity="center"
+                        android:onClick="onClick"
+                        android:padding="12dp"
+                        android:text="@string/how_to_pray"
+                        android:textSize="16sp" />
+
+                    <TextView
+                        android:id="@+id/txt_duas_and_misbaha"
+                        android:layout_width="match_parent"
+                        android:layout_height="100dp"
+                        android:layout_marginStart="4dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/bg_edt_yellow"
+                        android:gravity="center"
+                        android:onClick="onClick"
+                        android:padding="12dp"
+                        android:text="@string/duas_and_misbaha"
+                        android:textSize="16sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+
+                    android:layout_marginTop="8dp"
+                    android:minHeight="64dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/txt_hadiths"
+                        android:layout_width="match_parent"
+                        android:layout_height="100dp"
+                        android:layout_marginEnd="4dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/bg_edt_yellow"
+                        android:gravity="center"
+                        android:onClick="onClick"
+                        android:padding="12dp"
+                        android:text="@string/hadiths"
+                        android:textSize="16sp" />
+
+                    <TextView
+                        android:id="@+id/txt_mosques"
+                        android:layout_width="match_parent"
+                        android:layout_height="100dp"
+                        android:layout_marginStart="4dp"
+                        android:layout_marginEnd="4dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/bg_edt_yellow"
+                        android:gravity="center"
+                        android:onClick="onClick"
+                        android:padding="12dp"
+                        android:text="@string/mosques"
+                        android:textSize="16sp" />
+
+                    <TextView
+                        android:id="@+id/txt_the_quran"
+                        android:layout_width="match_parent"
+                        android:layout_height="100dp"
+                        android:layout_marginStart="4dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/bg_edt_yellow"
+                        android:gravity="center"
+                        android:onClick="onClick"
+                        android:padding="12dp"
+                        android:text="@string/the_quran"
+                        android:textSize="16sp" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+
+    <RelativeLayout
+        android:id="@+id/rlt_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/arrow_back"
+            style="@style/img_back_arrow_bottom"
+            android:onClick="onClick"
+            android:src="@drawable/img_back_map" />
+    </RelativeLayout>
+
+</RelativeLayout>

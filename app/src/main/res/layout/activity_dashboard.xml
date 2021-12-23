@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBlack"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/logo_dashboard"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/button_layout"
+        android:layout_marginTop="@dimen/view_space_10"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center_vertical"
+            android:gravity="center"
+            android:orientation="vertical">
+
+
+            <ImageView
+                android:layout_width="@dimen/app_logo_width"
+                android:layout_height="@dimen/app_logo_height"
+                android:layout_gravity="center"
+                android:src="@drawable/logo" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/my_islam"
+                android:textColor="@color/colorYellow"
+                android:textSize="30sp"
+                android:visibility="gone" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/one_ummah"
+                android:textColor="@color/colorYellow"
+                android:textSize="16sp"
+                android:visibility="gone" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!--  <ScrollView
+          android:layout_width="match_parent"
+
+          android:layout_height="wrap_content">-->
+
+    <LinearLayout
+        android:id="@+id/button_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="@dimen/view_space_5"
+        android:gravity="bottom"
+        android:orientation="vertical"
+        android:paddingBottom="20dp">
+
+        <Button
+            android:id="@+id/btn_faith"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dashboard_btn_height"
+            android:layout_marginTop="@dimen/view_space_8"
+            android:background="@drawable/line1"
+            android:text="@string/faith"
+            android:textAllCaps="false"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btn_prayer"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dashboard_btn_height"
+            android:layout_marginTop="@dimen/view_space_8"
+            android:background="@drawable/line2"
+            android:text="@string/prayer"
+            android:textAllCaps="false"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btn_charity"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dashboard_btn_height"
+            android:layout_marginTop="@dimen/view_space_8"
+            android:background="@drawable/line3"
+            android:text="@string/charity"
+            android:textAllCaps="false"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btn_fasting"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dashboard_btn_height"
+            android:layout_marginTop="@dimen/view_space_8"
+            android:background="@drawable/line4"
+            android:text="@string/fasting"
+            android:textAllCaps="false"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btn_pilgrimage"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dashboard_btn_height"
+            android:layout_marginTop="@dimen/view_space_8"
+            android:background="@drawable/line5"
+            android:text="@string/pilgrimage"
+            android:textAllCaps="false"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btn_community"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dashboard_btn_height"
+            android:layout_marginTop="@dimen/view_space_8"
+            android:background="@drawable/bg_btn_community_dashboard"
+            android:padding="10dp"
+            android:text="@string/community"
+            android:textAllCaps="false"
+            android:textColor="@color/colorWhite"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <!--</ScrollView>-->
+</RelativeLayout>

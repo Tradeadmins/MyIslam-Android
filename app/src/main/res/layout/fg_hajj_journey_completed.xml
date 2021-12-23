@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBlack">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_toLeftOf="@+id/donut_progress"
+                android:text="Your Hajj Journey"
+                android:textColor="@color/colorWhite"
+                android:textSize="18sp" />
+
+            <com.github.lzyzsd.circleprogress.DonutProgress
+                android:id="@+id/donut_progress"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentRight="true"
+                android:layout_gravity="center"
+                custom:donut_circle_starting_degree="50"
+                custom:donut_finished_color="@color/colorYellow"
+                custom:donut_finished_stroke_width="3dp"
+                custom:donut_progress="34"
+                custom:donut_text_size="18sp"
+                custom:donut_unfinished_color="@color/colorWhite"
+                custom:donut_unfinished_stroke_width="3dp" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_marginTop="25dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorYellow"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:padding="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_weight="0.25"
+                    android:textSize="18sp"
+                    android:textColor="@color/colorBlack"
+                    android:text="@string/task"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:layout_weight="0.35"
+                    android:textSize="18sp"
+                    android:gravity="center"
+                    android:textColor="@color/colorBlack"
+                    android:text="@string/task_completed"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:gravity="right"
+                    android:layout_weight=".4"
+                    android:layout_alignParentRight="true"
+                    android:textSize="18sp"
+                    android:textColor="@color/colorBlack"
+                    android:text="@string/undo"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_margin="5dp"
+                android:padding="8dp"
+                android:background="@color/colorLightYellow"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_weight="0.25"
+                    android:textSize="18sp"
+                    android:textColor="@color/colorBlack"
+                    android:text="Pilgrimage preparation steps"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <ImageView
+                    android:layout_weight="0.35"
+                    android:src="@color/colorAccent"
+                    android:id="@+id/img_task_completed"
+                    android:layout_alignParentRight="true"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp" />
+
+                <ImageView
+                    android:layout_weight=".4"
+                    android:src="@color/colorAccent"
+                    android:id="@+id/img_task_undo"
+                    android:layout_alignParentRight="true"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp" />
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <ImageView
+        style="@style/img_back_arrow_bottom"
+        android:id="@+id/arrow_back"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="10dp"/>
+</RelativeLayout>

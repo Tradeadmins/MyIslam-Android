@@ -1,0 +1,341 @@
+<resources>
+    <string name="app_name">MyIslam</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <!--Dev Ashish-->
+
+
+    <!--Prayer-->
+    <string name="mosques">Mosques</string>
+    <string name="i_prayed">صليت</string>
+    <string name="my_tracker">بلدي المقتفي</string>
+    <string name="you_have_prayed">You have prayed​</string>
+    <string name="times">مرات</string>
+    <string name="weekly">أسبوعي</string>
+    <string name="monthly">شهريا</string>
+    <string name="yearly">سنوي</string>
+    <string name="fard">فارد</string>
+    <string name="muakkadah">Muakkadah</string>
+
+    <!--Duas-->
+    <string name="my_custom_dua">بلدي مخصص الدعاء</string>
+    <string name="create_custom_dua">Create Custom Dua</string>
+    <string name="name_your_dua_here">Name Your Dua here</string>
+    <string name="update_dua">Update Dua</string>
+
+    <!--Pilgrimage-->
+    <string name="your_spiritual_journey_simplified">Your spiritual journey simplified</string>
+    <string name="select_your_journey">Select Your Journey</string>
+    <string name="hajj">Hajj</string>
+    <string name="umrah">Umrah</string>
+    <string name="your_hajj_journey">Your Hajj Journey</string>
+    <string name="download_certificate">Download Certificate</string>
+    <string name="your_umrah_journey">Your Umrah Journey</string>
+    <string name="your_hajj_umrah_journey">Your Hajj/Umrah Journey</string>
+    <string name="feature_coming_soon">Feature Coming soon</string>
+
+
+    <!--dashboard-->
+    <string name="faith">إيمان</string>
+    <string name="prayer">صلاة</string>
+    <string name="charity">الاعمال الخيرية</string>
+    <string name="fasting">صيام</string>
+    <string name="pilgrimage">الحج</string>
+    <string name="community">تواصل اجتماعي</string>
+    <string name="collections">مجموعات</string>
+
+
+    <!--Menu-->
+    <string name="haj_pilgrimage">Haj Pilgrimage</string>
+    <string name="my_community">My Community</string>
+    <string name="settings">Settings</string>
+    <string name="names_of_allah">اسماء الله</string>
+    <string name="allah">الله</string>
+    <string name="the_quran">القرآن</string>
+    <string name="duas_and_misbaha">اثنان و\nسبحة</string>
+    <string name="hadith">Hadith</string>
+    <string name="hadiths">الأحاديث</string>
+    <string name="taweed">Tawheed</string>
+    <string name="prophet_muhammad">Prophet Muhammad</string>
+    <string name="prophet_muhammad_pbuh">Prophet Muhammad (PbuH)</string>
+    <string name="menu_how_to_pray">How To Pray</string>
+    <string name="how_to_pray">كيف \n صلى</string>
+    <string name="qibla_locator">القبلة \n لتحديد المواقع</string>
+    <string name="dua">Dua</string>
+    <string name="duas">Duas</string>
+    <string name="ramadan_calendar">Ramadan calendar</string>
+    <string name="zakat_calculator">Zakat Calculator</string>
+    <string name="donate">Donate</string>
+    <string name="voting">Voting</string>
+    <string name="start_preparation">Start Preparation</string>
+    <string name="pilgrimage_guide">Pilgrimage Guide</string>
+    <string name="find_pilgrim">Find Pilgrim</string>
+    <string name="pilgrimage_compass">Pilgrimage compass</string>
+    <string name="halal_restaurant">مطاعم حلال</string>
+
+    <!--Faith-->
+    <string name="txt_faith">lā ʾilāha ʾillā llāh muḥammadun rasūlu llāh\n
+There is no god but God. Muhammad is
+the messenger of God.</string>
+
+    <string name="favourites">Favourites</string>
+    <string name="favourite">Favourite</string>
+
+    <string name="taweed_desc">
+        "The concept of “Tawheed” is the most fundamental concept of Islam as a religion
+ and one that each and every muslim should subscribe to. Every Muslim should believe
+ in the one true God alone and should not worship any deity other than Allah.
+
+For one to identify as a muslim, they
+ should have a real understanding of
+Allah and should possess knowledge of
+what makes Allah unique and why
+Allah is the only one worthy of worship.
+
+Islam teaches that Allah(God) has among others, the following qualities that
+distinguish Allah from all other beings:
+
+Allah knows all things
+Allah has power over all things
+Allah is the Creator and Was never Created
+
+The concept of Tawheed and Allah’s uniqueness is well articulated in
+ various parts of the Quran, but It
+Is more straightforward and well summarised in the 112th
+chapter of the Quran known as “Surat – Ikhlas”. Given below is the translation of that chapter:
+    </string>
+
+    <string name="prophet_mohammed_final_msg">The Final Messenger</string>
+    <string name="prophet_mohammed_desc">
+        Muhammad (may Allah\'s blessings and peace be upon him), son of Abdullah, was born in Makkah around the year 570 CE. He became known by his people as Al-Amin (the trustworthy one).
+\n\n
+        When Muhammad reached the age of forty, the angel Gabriel came to him bringing revelation. At first, Muhammad was instructed to invite only his immediate family, including his wife Khadijah, to Islam; eventually, it was revealed to him that he should deliver Allah’s message to all humankind. For the rest of his life, he communicated this message to others, set an excellent example, and was a perfect role model for humanity. In the year 632, Prophet Muhammad died at the age of sixty-three.
+\n\n
+        Prophet Muhammad (may God’s blessings and peace be upon him) is called “the Seal of the Prophets.” As the final prophet, he was sent to confirm all the truth that had been revealed before him, including the original Gospel of Jesus (which is different from today’s Gospels).
+    </string>
+
+    <string name="the_hadith">The Hadith</string>
+    <string name="txt_noa_small_desc">Throughout the Quran, Allah
+is described with a number of
+names which .. read more</string>
+    <string name="txt_noa_full_desc">Throughout the Quran, Allah is described with a number of names which total up to 99 in number. The names of Allah help you understand the concept of Allah’s uniques  the different qualities that Allah possesses.When we supplicate to Allah, we are encouraged to call Him by His beautiful names or by the name that is related to our request or need. For example, if our request concerns our provision in life, we might call out to Al-Razzaq, The Provider.  These names do not indicate that Allah is more than one being; they are names that describe the different attributes that belong to the One True God (Allah).We human beings can never comprehend the greatness of Allah, but the more we know about Him and what pleases Him, the better we can love and worship Him. Learning about Allah – through studying and understanding His names and attributes – brings us peace of mind in this life and the next because we acknowledge that everything is in His hands and happens according to His Will.It is not appropriate for a human being to use a name that belongs to Allah alone. Muslims often have names that begin with Abdul (meaning “servant of”) followed by one of the names of Allah. Thus, Abdullah means “servant of Allah”, “Abdul-Rahman” means “servant of Al-Rahman (The Compassionate)”, and so on.Knowing more about the names of our true God (Allah), and believing truly in Him and His attributes, leads us to bear in mind, whenever we act or interact with others, that Allah is: (list of names)</string>
+
+    Fajr today?​
+    <string name="notification_msg">Have you prayed %1$s %2$s?</string>
+    <string name="today">today</string>
+    <string name="yesterday">yesterday</string>
+
+    <!--ReqForPrayer-->
+    <string name="request_for_prayer">طلب صلاة</string>
+    <string name="all">All</string>
+    <string name="my_request">My Request</string>
+    <string name="make_a_dua">Make a Dua</string>
+
+    <!--Community-->
+    <string name="mosque">الجوامع</string>
+    <string name="near_mosque">قرب المسجد</string>
+    <string name="restaurant">مطعم</string>
+    <string name="prayer_request">طلب صلاة</string>
+    <string name="qurbani">الضحية</string>
+    <string name="events">أحداث</string>
+
+    <!--Calendar-->
+    <string name="islamic_calendar">Islamic Calendar</string>
+    <string name="islamic_holidays">Islamic Holidays</string>
+
+    <!--PopUp-->
+    <string name="txt_read_more">قراءة المزيد </string>
+    <string name="txt_i_accept">موافق</string>
+
+    <string name="terms_condition_title">الشروط والأحكام </string>
+    <string name="terms_condition_desc">By downloading, browsing, accessing or using this Sample Store mobile application (“Mobile Application”), you agree to be bound by these Terms and Conditions of Use. We reserve the right to amend these terms and conditions at any time. If you disagree with any of these Terms and Conditions of Use, you must immediately discontinue your access to the Mobile Application and your use of the services offered on the Mobile Application. Continued use of the Mobile Application will constitute acceptance of these Terms and Conditions of Use, as may be amended from time to time.</string>
+
+    <string name="privacy_policy_title">Privacy Policy Notice</string>
+    <string name="privacy_policy_desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not</string>
+
+    <!--Login-->
+    <string name="my_islam">My Islam</string>
+    <string name="one_ummah">One Ummah</string>
+    <string name="edt_hint_email">البريد الإلكتروني</string>
+    <string name="edt_hint_password">كلمه السر</string>
+    <string name="txt_forgot_password">هل نسيت كلمة المرور؟</string>
+    <string name="txt_login">تسجيل الدخول</string>
+    <string name="txt_or">أو</string>
+    <string name="txt_facebook">فيس بوك</string>
+    <string name="txt_google">Google</string>
+    <string name="txt_dont_have_account">ليس لديك حساب؟</string>
+    <string name="txt_signup">سجل </string>
+    <string name="txt_agree_terms">باستخدام ، "إسلامي" أنت توافق على شروطنا  </string>
+    <string name="txt_terms">شروط </string>
+    <string name="terms"><u>شروط</u></string>
+    <string name="txt_submit">Submit</string>
+    <string name="txt_sign_up_with_email">سجل عن طريق البريد الإلكتروني </string>
+
+    <!--change pwd-->
+
+    <string name="txt_change_pwd">Change Password</string>
+    <string name="txt_current_pwd">Current password</string>
+    <string name="txt_new_pwd">New password</string>
+    <string name="txt_confirm_pwd">تأكيد كلمة المرور </string>
+    <string name="save">حفظ</string>
+
+    <!--Event List-->
+    <string name="txt_event_date">Date</string>
+    <string name="txt_event_start_time">Start Time</string>
+    <string name="txt_event_end_time">End Time</string>
+
+    <!--Create Event-->
+    <string name="tab_list">قائمة</string>
+    <string name="tab_map">خريطة</string>
+    <string name="tab_my_event">My Event</string>
+    <string name="txt_create_event">Create Event</string>
+    <string name="edt_hint_event_name">Event Name</string>
+    <string name="edt_hint_event_type">Event Type</string>
+    <string name="edt_hint_address">Address</string>
+    <string name="edt_hint_country">Country</string>
+    <string name="edt_hint_city">City</string>
+    <string name="edt_hint_mobile_number">Mobile Number</string>
+    <string name="edt_hint_description">Description</string>
+    <string name="edt_hint_from">From</string>
+    <string name="edt_hint_to">To</string>
+    <string name="btn_create_event">Create Event</string>
+
+    <!--Setting-->
+    <string name="prayer_time_and_adhan">Prayer Time and Adhan</string>
+    <string name="quran_setting">Quran setting</string>
+    <string name="acknowledgement">Acknowledgement</string>
+    <string name="privacy_policy">سياسة خاصة</string>
+    <string name="contact_us">Contact us</string>
+
+    <!--Hajj Journey Recetations-->
+    <string name="txt_click_for_all_complete">Click here for all completed steps</string>
+    <string name="txt_click_for_all_uncomplete">Click here for all uncompleted steps</string>
+
+    <!--Request_for_dua-->
+    <string name="txt_create_prayer_req">إنشاء طلب الصلاة</string>
+    <string name="txt_enter_txt_here">أدخل النص هنا</string>
+
+    <!--subscription-->
+
+    <!--Registration-->
+    <string name="edt_hint_fname">الاسم الاول</string>
+    <string name="edt_hint_lname">الكنية </string>
+    <string name="txt_already_account">هل لديك حساب؟</string>
+    <string name="txt_sign_up">Sign up</string>
+    <string name="txt_signin">تسجيل الدخول </string>
+
+    <!--welcome-->
+    <!--<string name="txt_welcome">The spelling mistakes in the text had been highlighted in green. The text is finished, but the pictures will have to be pasted in later. You need to demonstrate to the examiners that you have more than a literal understanding of the text. The students are reading \'Lord of the Flies\' as one of their set texts this year. At this point in the speech, the minister departed from his prepared text</string>-->
+    <string name="txt_welcome">اسلامى \n- صاحبك للحياة ، وليس فقط لشهر رمضان! \n- جميع مكونات الإسلام في مكان واحد \n- تفاعلية وسهلة الاستخدام \n- لا إعلانات- لا نوافذ منبثقة- لا فوضى \n- آمنة الأطفال \n- نتبرع بجزء من أرباحنا للجمعيات الخيرية \n وتقرر ما يحدث بالمال.تمتع التطبيق ويرجى ترك تعليقاتنا \n- نحن نحب أن نسمع منك.</string>
+
+    <!--Signupp-->
+    <string name="txt_sign_in">تسجيل الدخول </string>
+    <string name="txt_have_an_account">لديك حساب؟</string>
+
+    <!--Your Hajj Journey _inprocess-->
+    <string name="task">Task</string>
+    <string name="completed">Completed</string>
+    <string name="task_completed">Task Completed</string>
+    <string name="undo">Undo</string>
+
+    <!--Voting-->
+    <string name="btn_vote_for_this_cause">Vote for this cause</string>
+
+    <!--My Account-->
+    <string name="my_account">My Account</string>
+    <string name="uprade_premium">UpGrade To Premium</string>
+    <string name="logout">Log Out</string>
+    <string name="next">Next</string>
+    <string name="welcome_to_myislam">Welcome to My Islam</string>
+
+    <!--Alarm Config-->
+    <string name="choose_notification">اختر الإخطار </string>
+    <string name="prayer_tracker">تعقب الصلاة</string>
+    <string name="alarm">Alarm</string>
+
+    <string name="fajr">الفجر </string>
+    <string name="dhudr">الظهر </string>
+    <string name="asar">العصر </string>
+    <string name="magrib">المغرب؟ </string>
+    <string name="isha">الع شاء</string>
+
+    <string name="app_language">لغة التطبيق </string>
+    <string name="language_of_the_app">Language of the App</string>
+    <string name="quran_translation">ترجمة القرآن </string>
+    <string name="change_noti_setting">يمكنك أيضًا تغيير الإشعار في قائمة الإعدادات</string>
+    <string name="txt_setting_menu">قائمة الإعدادات</string>
+
+    <!---->
+
+    <!--Alert Dynamic-->
+    <string name="alert_qurbani_not_found">sorry no halal slaughter house found nearby</string>
+    <string name="duas_category_get_all">All Duas</string>
+    <string name="popup_total_prayed">You have prayed %1$s times this week. peace be upon you.</string>
+
+    <!--VALID MSG-->
+    <string name="valid_id">enter user name</string>
+    <string name="valid_fname">يرجى ادخال الاسم الاول </string>
+    <string name="valid_lname">الرجاء إدخال اسم العائلة </string>
+    <string name="valid_email">الرجاء إدخال اسم المستخدم البريد الالكتروني.</string>
+    <string name="valid_email_exp">الرجاء إدخال معرف بريدك الإلكتروني الصحيح </string>
+    <string name="valid_pass">من فضلك أدخل رقمك السري </string>
+    <string name="valid_pass_exp">password length must be 6 character</string>
+    <string name="valid_conf_pass">كلمة المرور المؤكدة غير متطابقة ، يرجى المحاولة مرة أخرى </string>
+
+    <string name="valid_dua_title">enter dua title</string>
+    <string name="valid_dua_desc">enter dua text</string>
+
+    <!--ARRAY-->
+    <string-array name="event_category">
+        <item>Education Event</item>
+        <item>Funerel</item>
+        <item>Social Gathering</item>
+        <item>Kids Friendly</item>
+        <item>Other</item>
+    </string-array>
+
+    <!--<string-array name="languages">
+        <item>Arabic</item>
+        <item>English</item>
+        <item>Turkey</item>
+        <item>Malay</item>
+    </string-array>-->
+
+    <!--Compass-->
+    <string name="sotw_north">N</string>
+    <string name="sotw_east">E</string>
+    <string name="sotw_south">S</string>
+    <string name="sotw_west">W</string>
+    <string name="sotw_northeast">NE</string>
+    <string name="sotw_northwest">NW</string>
+    <string name="sotw_southeast">SE</string>
+    <string name="sotw_southwest">SW</string>
+
+
+    <!--The Quran-->
+
+    <string name="sura">السورة</string>
+    <string name="juz">جزئها</string>
+    <string name="all_components_of_islam_in_one_place">جميع مكونات الإسلام في مكان واحد
+</string>
+    <string name="my_islam_your_complanion_for_life_not_just_ramdan">My islam -your companion for life ,not just Ramdan!</string>
+    <string name="safe_for_kids">آمنة للأطفال</string>
+    <string name="no_advertisements">لا إعلانات</string>
+    <string name="enjoy_the_app_please_leave_us_feedback_we_d_love_to_hear_from_you"><![CDATA[Enjoy the app & please leave us feedback we\'d love to hear from you.]]></string>
+    <string name="jazakallah">Jazakallah</string>
+    <string name="please_wait">ارجوك انتظر</string>
+    <!--Fasting-->
+    <string name="fast_opens"> يفتح بسرعة</string>
+    <string name="fast_closes">يغلق بسرعة</string>
+    <string name="ramdan_calender">التقويم رمضان</string>
+
+
+
+</resources>

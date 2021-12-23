@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:paddingTop="@dimen/base_activity_top_space"
+    android:layout_height="match_parent"
+    android:background="@color/colorBlack">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/txt_change_pwd"
+            android:textColor="@color/colorYellow"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:text="@string/txt_current_pwd"
+            android:textColor="@color/colorYellow"
+            android:textSize="16sp" />
+
+        <EditText
+            android:textAlignment="viewStart"
+            android:id="@+id/edt_opwd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:background="@drawable/bg_edt_yellow"
+            android:inputType="textPassword"
+            android:padding="12dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="left"
+            android:text="@string/txt_new_pwd"
+            android:textColor="@color/colorYellow"
+            android:textSize="16sp" />
+
+        <EditText
+            android:textAlignment="viewStart"
+            android:id="@+id/edt_npwd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:background="@drawable/bg_edt_yellow"
+            android:inputType="textPassword"
+            android:padding="12dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="left"
+            android:text="@string/txt_confirm_pwd"
+            android:textColor="@color/colorYellow"
+            android:textSize="16sp" />
+
+        <EditText
+            android:textAlignment="viewStart"
+            android:id="@+id/edt_cpwd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:background="@drawable/bg_edt_yellow"
+            android:inputType="textPassword"
+            android:padding="12dp" />
+
+        <Button
+            android:id="@+id/btn_save"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/bg_btn_yellow"
+            android:text="@string/save"
+            android:textAllCaps="false"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/arrow_back"
+        android:layout_marginBottom="10dp"
+        style="@style/img_back_arrow_bottom"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="10dp"
+        android:rotation="180" />
+</RelativeLayout>
